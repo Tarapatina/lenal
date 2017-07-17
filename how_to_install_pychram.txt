@@ -4,4 +4,4 @@
 2)после установки вылезет окошко с активацией:
     Выбираем Activation Server
     Вводим http://xidea.online
-3)Выбираем Create  New project - и выбираем эту папку т.е. lenal
+3)выбираем open  и необходимую папку lenal
