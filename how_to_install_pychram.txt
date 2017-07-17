@@ -1,0 +1,7 @@
+1)https://www.jetbrains.com/pycharm/specials/pycharm/pycharm.html
+скачать-клацнуть-установить
+если будет две версии предлагать выбираем Professional Edition - мы же уже большие
+2)после установки вылезет окошко с активацией:
+    Выбираем Activation Server
+    Вводим http://xidea.online
+3)Выбираем Create  New project - и выбираем эту папку т.е. lenal
