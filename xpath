@@ -1,4 +1,4 @@
-Взяты с сайта https://msdn.microsoft.com/ru-ru/library/ms256086(v=vs.120).aspx
+Взяты с сайта https://msdn.microsoft.com/ru-ru/library/ms256086(v=vs.120).aspx       http://onedev.net/post/458
 ./author	Все элементы <author> текущего контекста. Заметьте, что это эквивалентно выражению в следующей строке.
 author	Все элементы <author> текущего контекста.
 first. name	Все элементы <first.name> текущего контекста.
