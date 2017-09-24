@@ -1,0 +1,2591 @@
+    <!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+    <head>
+        <meta name="cmsmagazine" content="1778a200f971608f9d9b089c8dbfe0ab"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+        <meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, width=device-width">
+        <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"/>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="canonical" href="https://dveribelorussii.ru/404.php" />
+<script type="text/javascript" data-skip-moving="true">(function(w, d, n) {var cl = "bx-core";var ht = d.documentElement;var htc = ht ? ht.className : undefined;if (htc === undefined || htc.indexOf(cl) !== -1){return;}var ua = n.userAgent;if (/(iPad;)|(iPhone;)/i.test(ua)){cl += " bx-ios";}else if (/Android/i.test(ua)){cl += " bx-android";}cl += (/(ipad|iphone|android|mobile|touch)/i.test(ua) ? " bx-touch" : " bx-no-touch");cl += w.devicePixelRatio && w.devicePixelRatio >= 2? " bx-retina": " bx-no-retina";var ieVersion = -1;if (/AppleWebKit/.test(ua)){cl += " bx-chrome";}else if ((ieVersion = getIeVersion()) > 0){cl += " bx-ie bx-ie" + ieVersion;if (ieVersion > 7 && ieVersion < 10 && !isDoctype()){cl += " bx-quirks";}}else if (/Opera/.test(ua)){cl += " bx-opera";}else if (/Gecko/.test(ua)){cl += " bx-firefox";}if (/Macintosh/i.test(ua)){cl += " bx-mac";}ht.className = htc ? htc + " " + cl : cl;function isDoctype(){if (d.compatMode){return d.compatMode == "CSS1Compat";}return d.documentElement && d.documentElement.clientHeight;}function getIeVersion(){if (/Opera/i.test(ua) || /Webkit/i.test(ua) || /Firefox/i.test(ua) || /Chrome/i.test(ua)){return -1;}var rv = -1;if (!!(w.MSStream) && !(w.ActiveXObject) && ("ActiveXObject" in w)){rv = 11;}else if (!!d.documentMode && d.documentMode >= 10){rv = 10;}else if (!!d.documentMode && d.documentMode >= 9){rv = 9;}else if (d.attachEvent && !/Opera/.test(ua)){rv = 8;}if (rv == -1 || rv == 8){var re;if (n.appName == "Microsoft Internet Explorer"){re = new RegExp("MSIE ([0-9]+[\.0-9]*)");if (re.exec(ua) != null){rv = parseFloat(RegExp.$1);}}else if (n.appName == "Netscape"){rv = 11;re = new RegExp("Trident/.*rv:([0-9]+[\.0-9]*)");if (re.exec(ua) != null){rv = parseFloat(RegExp.$1);}}}return rv;}})(window, document, navigator);</script>
+
+
+<link href="/bitrix/cache/css/s1/standart/kernel_main/kernel_main.css?149975657344417" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/standart/page_5dbc08669ef8bfb2c3d53cc82d49553c/page_5dbc08669ef8bfb2c3d53cc82d49553c.css?14997233832697" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/standart/default_66cf3ce6fa0e3184695470af873830c5/default_66cf3ce6fa0e3184695470af873830c5.css?14997233729325" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/standart/template_58b8adb99815404d54e69d7e59dbfb13/template_58b8adb99815404d54e69d7e59dbfb13.css?1500620284576914" type="text/css"  data-template-style="true"  rel="stylesheet" />
+
+
+
+        <link rel="canonical" href="https://dveribelorussii.ru/404.php"/>
+                                                                                                                        
+
+        <title>Страница не найдена</title>
+                            </head>
+<body class="">
+    <div id="panel"></div>
+    <div class="container-fluid">
+    <div class="row">
+    <!-- chooseCityModal start -->
+<div class="modal fade" id="chooseCityModal" tabindex="-1" role="dialog" aria-labelledby="chooseCityModal">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-body">
+                <img class="modal-close-button" src="/local/templates/standart/images/modal_close_button.png"
+                     alt="close" data-dismiss="modal" aria-label="Close">
+                <span class="h4 h4_modal modal-title" id="chooseCityModal">Выберите город</span>
+                <div class="all-cities">
+                    <ul class="all-cities-list">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   style="font-weight: 700;"
+                                   data-xml="1"
+                                   data-id="374"
+                                   class="all-cities-item-link js-city_selector"
+                                   data-dismiss="modal">
+                                    Москва                                </a>
+                            </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="377"
+                                   class="all-cities-item-link js-city_selector">
+                                    Абакан                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="378"
+                                   class="all-cities-item-link js-city_selector">
+                                    Астрахань                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="380"
+                                   class="all-cities-item-link js-city_selector">
+                                    Белгород                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="381"
+                                   class="all-cities-item-link js-city_selector">
+                                    Благовещенск                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="459"
+                                   class="all-cities-item-link js-city_selector">
+                                    Брёхово                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="382"
+                                   class="all-cities-item-link js-city_selector">
+                                    Брянск                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="383"
+                                   class="all-cities-item-link js-city_selector">
+                                    Великий Новгород                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml="28401"
+                                   data-id="387"
+                                   class="all-cities-item-link js-city_selector">
+                                    Волгоград                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="388"
+                                   class="all-cities-item-link js-city_selector">
+                                    Вологда                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="389"
+                                   class="all-cities-item-link js-city_selector">
+                                    Воронеж                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="462"
+                                   class="all-cities-item-link js-city_selector">
+                                    Геленджик                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml="2"
+                                   data-id="370"
+                                   class="all-cities-item-link js-city_selector">
+                                    Евпатория                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="392"
+                                   class="all-cities-item-link js-city_selector">
+                                    Екатеринбург                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="438"
+                                   class="all-cities-item-link js-city_selector">
+                                    Железногорск                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml="3"
+                                   data-id="395"
+                                   class="all-cities-item-link js-city_selector">
+                                    Ижевск                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="396"
+                                   class="all-cities-item-link js-city_selector">
+                                    Казань                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="369"
+                                   class="all-cities-item-link js-city_selector">
+                                    Керчь                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="443"
+                                   class="all-cities-item-link js-city_selector">
+                                    Коломна                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="440"
+                                   class="all-cities-item-link js-city_selector">
+                                    Кострома                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="397"
+                                   class="all-cities-item-link js-city_selector">
+                                    Краснодар                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="398"
+                                   class="all-cities-item-link js-city_selector">
+                                    Красноярск                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="399"
+                                   class="all-cities-item-link js-city_selector">
+                                    Курган                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="400"
+                                   class="all-cities-item-link js-city_selector">
+                                    Курск                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="460"
+                                   class="all-cities-item-link js-city_selector">
+                                    Лыткарино                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml="8"
+                                   data-id="403"
+                                   class="all-cities-item-link js-city_selector">
+                                    Льгов                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="405"
+                                   class="all-cities-item-link js-city_selector">
+                                    Люберцы                                </a>
+                            </li>
+                                                                                                            <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="452"
+                                   class="all-cities-item-link js-city_selector">
+                                    Мытищи                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="406"
+                                   class="all-cities-item-link js-city_selector">
+                                    Набережные Челны                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="411"
+                                   class="all-cities-item-link js-city_selector">
+                                    Пенза                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="442"
+                                   class="all-cities-item-link js-city_selector">
+                                    Подольск                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="412"
+                                   class="all-cities-item-link js-city_selector">
+                                    Пятигорск                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="413"
+                                   class="all-cities-item-link js-city_selector">
+                                    Ростов-на-Дону                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="415"
+                                   class="all-cities-item-link js-city_selector">
+                                    Самара                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="375"
+                                   class="all-cities-item-link js-city_selector">
+                                    Санкт-Петербург                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="371"
+                                   class="all-cities-item-link js-city_selector">
+                                    Севастополь                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="372"
+                                   class="all-cities-item-link js-city_selector">
+                                    Симферополь                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="447"
+                                   class="all-cities-item-link js-city_selector">
+                                    Старый Оскол                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml="89"
+                                   data-id="368"
+                                   class="all-cities-item-link js-city_selector">
+                                    Судак                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="418"
+                                   class="all-cities-item-link js-city_selector">
+                                    Тамбов                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="419"
+                                   class="all-cities-item-link js-city_selector">
+                                    Тверь                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="421"
+                                   class="all-cities-item-link js-city_selector">
+                                    Тула                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="456"
+                                   class="all-cities-item-link js-city_selector">
+                                    Тюмень                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="441"
+                                   class="all-cities-item-link js-city_selector">
+                                    Уфа                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="408"
+                                   class="all-cities-item-link js-city_selector">
+                                    Цемдолина                                 </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="423"
+                                   class="all-cities-item-link js-city_selector">
+                                    Челябинск                                </a>
+                            </li>
+                                                                                <li class="all-cities-item">
+                                <a href="javascript:void(0);"
+                                   data-xml=""
+                                   data-id="457"
+                                   class="all-cities-item-link js-city_selector">
+                                    Ялта                                </a>
+                            </li>
+                                            </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>    <!-- chooseCityModal end -->
+    <header class="header">
+        <div class="header-top">
+            <div class="container">
+                <div class="header__top-city">
+                                        <!--'start_frame_cache_header_cities'-->                                        <a href="javascript:void(0);"
+                       class="header__top-city-link"
+                       id="header_city_title"
+                       data-toggle="modal"
+                       data-target="#chooseCityModal">Москва</a>
+                    <div class="header__top-city-location hidden">
+                        <div class="header__top-city-location-inner">
+                            <div class="header__top-city-location-current">
+                                <span class="header__top-city-location-current-title">Ваш город:</span>
+                                <span class="header__top-city-location-current-geo"
+                                      id="header_city_dropdown"
+                                >Москва</span>
+                            </div>
+                            <div class="header__top-city-location-buttons">
+                                <a href="javascript:void(0);"
+                                   class="header__top-city-location-button-yes js-city_selector"
+                                                                       data-xml="31111"
+                                   data-id="374">Да</a>
+                                <a href="javascript:void(0);"
+                                   class="header__top-city-location-button-change"
+                                   data-toggle="modal"
+                                   data-target="#chooseCityModal">Изменить</a>
+                            </div>
+                        </div>
+                    </div>
+                                        <!--'end_frame_cache_header_cities'-->                </div>
+                <div class="header__lang">
+                                    </div>
+
+                                <ul id="" class="header__top-nav">
+	<li class="header__top-nav__item has-dropdown">О компании<span class="icon-angle-down"></span>
+	<ul id="top-header__customers" class="header__top-nav__link">
+		<li class="header-top__customers-item"> <a class="header-top__customers-link" href="/about/about_us/">О НАС</a> </li>
+		<li class="header-top__customers-item"> <a class="header-top__customers-link" href="/news/">НОВОСТИ</a> </li>
+		<li class="header-top__customers-item"> <a class="header-top__customers-link" href="/about/vakansii/">ВАКАНСИИ</a> </li>
+	</ul>
+ </li>
+	<li class="header__top-nav__item has-dropdown">Покупателю<span class="icon-angle-down"></span>
+	<ul id="top-header__customers" class="header__top-nav__link">
+		<li class="header-top__customers-item"> <a class="header-top__customers-link" href="/pokupatelyu/kak-kupit/">КАК КУПИТЬ</a> </li>
+		<li class="header-top__customers-item"><a class="header-top__customers-link" href="/pokupatelyu/uslugi/">ЗАМЕР&nbsp;И МОНТАЖ</a></li>
+		<li class="header-top__customers-item"> <a class="header-top__customers-link" href="/pokupatelyu/dostavka-i-oplata/">ДОСТАВКА И ОПЛАТА</a> </li>
+		<li class="header-top__customers-item"> <a class="header-top__customers-link" href="/pokupatelyu/garantii/">ГАРАНТИЯ</a></li>
+	</ul>
+ </li>
+	<li class="header__top-nav__item"><a class="header__top-nav__link" href="/contacts/">Контакты</a></li>
+	<li class="header__top-nav__item"><a class="header__top-nav__link" href="/partneram/franchayzing/">Стать дилером</a></li>
+</ul>                
+
+                <div class="header-top__login-box">
+                                        <a class="header-top__login" href="#"
+                       onclick="ShowAuth('/');">
+                        <img class="header-top__login-img" src="/local/templates/standart/images/icons/login.svg"
+                             alt="">Мой кабинет</a>
+                </div>
+                <div class="header-top__info">
+                    <!--'start_frame_cache_header_cities_link'-->                                        <a href="/firmennie-saloni/" class="header-top__address">
+                        <img class="header-top__address-img" src="/local/templates/standart/images/icons/location.svg"
+                             alt="">Адреса магазинов</a>
+                    <!--'end_frame_cache_header_cities_link'-->                    <a href="" class="header__master-link" data-toggle="modal"
+                       data-target="#myFeedback4">Вызвать замерщика</a>
+                </div>
+            </div>
+        </div>
+        <div class="header__middle">
+            <div class="container">
+                <a href="/"
+                   class="header-middle__logo-box">
+                    <img class="header-middle__logo" src="/local/templates/standart/images/icons/new-dveribel-ru.svg" border="0" />                </a>
+                	<div id="header-middle-search-box" class="header-middle__search-box">
+		<div class="header-middle__search-wrap">
+			<form action="/search/index.php">
+				<input name="q" type="text" id="header-middle-search" class="header-middle__search-input"  placeholder="ПОИСК" autocomplete="off">
+				<input name="s" value="" type="submit" class="header-middle__search-submit" title="Найти" alt="Search">
+			</form>
+		</div>
+	</div>
+                <div class="header-middle__phone-box">
+                    <p class="middle-header__phone">Горячая линия</p>
+                    <div class="header-middle_phone-ajax">
+                        <!--'start_frame_cache_wTsPyK'--><a href="tel:+7 495 120 31 91"><i class="icon-phone"></i>
+    <span>+7 495 120 31 91</span>
+</a>
+    	<a class="middle-header__phone" href="tel:+7 495 120 31 91">+7 495 120 31 91</a>
+    <!--'end_frame_cache_wTsPyK'-->                    </div>
+                </div>
+
+                <ul class="header-fixed__phone-box">
+                    <div class="header-fixed__phone-ajax">
+                        <!--'start_frame_cache_vBDlBl'-->		<li class="header-fixed__phone ">
+		<a class="header-fixed__phone-link" href="tel:+7 495 120 31 91">+7 495 120 31 91					</a>
+	</li>
+    	<!--'end_frame_cache_vBDlBl'-->                    </div>
+                </ul>
+                <div class="header-middle__callback-box">
+                    <div class="header-middle__callback-btn-wrap">
+                        <a class="header-middle__callback-btn" href="#" data-toggle="modal" data-target="#myFeedback1"
+                           id="vuzov"
+                           onclick="yaCounter24027328.reachGoal('vuzov'); _gaq.push(['_trackEvent', 'click', 'calls']); return true;">
+                            <img class="header-middle__phone-img" src="/local/templates/standart/images/icons/phone.svg"
+                                 alt="">Перезвоните мне</a>
+                    </div>
+                    <div class="header-middle__callback-comment">
+                        <img class="header-middle__clock-img" src="/local/templates/standart/images/icons/clock.svg"
+                             alt="">
+                        <span class="header-middle__shedule">С 9:00 до 22:00</span>
+                    </div>
+                </div>
+                                <div class="header-top__info">
+                    <!--'start_frame_cache_header_fixed_cities_link'-->                    <a href="/firmennie-saloni/" class="header-top__address">
+                        <img class="header-top__address-img" src="/local/templates/standart/images/icons/location.svg"
+                             alt="">Адреса магазинов</a>
+                    <!--'end_frame_cache_header_fixed_cities_link'-->                    <a href="#" class="header__master-link" data-toggle="modal" data-target="#myFeedback4"
+                       onclick="clg(1); yaCounter24027328.reachGoal('zamer_vyzov'); return true;">Вызвать замерщика</a>
+                </div>
+                <!--'start_frame_cache_basket_basket'-->                <!--					<div class="basket-line-container">-->
+                <div class="header-middle__cart">
+    <a class="header-middle__cart-wrap cart-empty" href="/cart/" title="В корзину" onclick="yaCounter24027328.reachGoal('click_po_korzine'); return true;">
+        <span class="header-middle__cart-icon"></span>
+        <span class="header-middle__cart-caption">КОРЗИНА</span>
+        <span class="header-middle__cart-summ basket-line-sum">0 руб.</span>
+        <span class="header-middle__cart-summ summ-empty">пуста :(</span>
+        <span class="header-middle__cart-quant"></span>
+    </a>
+</div>                <!--					</div>-->
+                <!--'end_frame_cache_basket_basket'-->                <div class="header-fixed__hamburger">
+                    <div class="header-fixed__hamburger-outer">
+                        <div class="header-fixed__hamburger-line line--one"></div>
+                        <div class="header-fixed__hamburger-line line--two"></div>
+                        <div class="header-fixed__hamburger-line line--three"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="header-mobile">
+            <div class="header-mobile-city">
+                <div class="container">
+                    <div class="row">
+                        <!--'start_frame_cache_header_cities_mobile'-->                        <div class="header__top-city">
+                            <a href="javascript:void(0);" class="header__top-city-link" id="header_city_title"
+                               data-toggle="modal"
+                               data-target="#chooseCityModal">Москва</a>
+                            <div class="header__top-city-location hidden">
+                                <div class="header__top-city-location-inner">
+                                    <div class="header__top-city-location-current">
+                                        <span class="header__top-city-location-current-title">Ваш город:</span>
+                                        <span class="header__top-city-location-current-geo">Москва</span>
+                                    </div>
+                                    <div class="header__top-city-location-buttons">
+                                        <a href="javascript:void(0);"
+                                           class="header__top-city-location-button-yes js-city_selector"
+                                           data-xml="31025"
+                                           data-id="374">Да</a>
+                                        <a href="javascript:void(0);"
+                                           class="header__top-city-location-button-change"
+                                           data-toggle="modal"
+                                           data-target="#chooseCityModal">Изменить</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                                                <div class="header__top-shop-address">
+                            <a href="/firmennie-saloni/" class="header__top-shop-address-link">Адреса магазинов</a>
+                        </div>
+                                                <!--'end_frame_cache_header_cities_mobile'-->                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="header-mobile__content">
+                        <div class="header-mobile__logo-box">
+                            <a class="header-mobile__logo-link" href="/"><img class="header-mobile__logo"
+                                                                              src="/local/templates/standart/images/icons/new-dveribel-ru.svg"
+                                                                              alt="Logo"></a>
+                        </div>
+                        <div class="header-mobile__search-box">
+                            <form class="header-mobile__search-form" action="/search/index.php">
+                                <input name="q" value="" class="header-mobile__search-input" type="text"
+                                       placeholder="ПОИСК">
+                                <input name="s" value="" class="header-mobile__search-submit" type="submit" value="">
+                            </form>
+                        </div>
+                        <ul class="header-mobile__callback-box">
+                            <li class="header-mobile__callback-item">
+                                <a class="header-mobile__callback-link" href="tel:+74951203191">
+                                    <img class="header-middle__phone-img"
+                                         src="/local/templates/standart/images/icons/phone.svg">
+                                    <span class="header-mobile__phone-ajax">+7 (495) 120-31-91</span>
+                                </a>
+                            </li>
+                        </ul>
+                                                <div class="header-mobile__info">
+                            <div class="header-mobile__address-box">
+                                <a class="header-mobile__address-link" href="/firmennie-saloni/"
+                                   title="Магазины на карте"></a>
+                            </div>
+                            <div class="header-mobile__hamburger" title="Меню сайта">
+                                <div class="header-mobile__hamburger-outer">
+                                    <div class="header-mobile__hamburger-line line--one"></div>
+                                    <div class="header-mobile__hamburger-line line--two"></div>
+                                    <div class="header-mobile__hamburger-line line--three"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="header__mobile-menu">
+            <div class="mobile-menu__content">
+                <div class="mobile-menu-search-box">
+                    <form class="mobile-menu-search-form" action="/search/index.php">
+                        <input name="q" value="" class="mobile-menu-search-input" type="text"
+                               placeholder="ПОИСК">
+                        <input name="s" value="" class="mobile-menu-search-submit" type="submit" value="">
+                    </form>
+                </div>
+                <!--'start_frame_cache_LkGdQn'-->        		<div class="mobile-menu__category">
+			<ul class="mobile-menu__category-box">
+                                    <li class="mobile-menu__category-item">
+						<a href="/catalog/dveri/filter/vid_dveri-is-mezhkomnatnyie-dveri/" class="mobile-menu__category-link">Межкомнатные двери</a>
+					</li>
+                                    <li class="mobile-menu__category-item">
+						<a href="/catalog/dveri/filter/vid_dveri-is-vhodnyie-dveri/" class="mobile-menu__category-link">Входные двери</a>
+					</li>
+                																		<!--Двернаяфурнитура-->					<li class="mobile-menu__category-item">
+						<a href="/catalog/furniture/" class="mobile-menu__category-link">Дверная фурнитура</a>
+					</li>
+														<!--Межкомнатныеарки-->					<li class="mobile-menu__category-item">
+						<a href="/catalog/arch/" class="mobile-menu__category-link">Межкомнатные арки</a>
+					</li>
+				                        <li class="mobile-menu__category-item mobile-menu__actions"><a class="mobile-menu__category-link" href="/pokupatelyu/aktsii/">Акции</a></li>
+            			</ul>
+		</div>
+    <!--'end_frame_cache_LkGdQn'-->                <div class="mobile-menu__address-box">
+                    <a class="mobile-menu__address-link" href="/firmennie-saloni/"
+                       onclick="yaCounter24027328.reachGoal('saloni'); return true;">
+                        <img class="header-top__address-img" src="/local/templates/standart/images/icons/location.svg"
+                             alt="">Адреса магазинов</a>
+                </div>
+                <div class="mobile-menu__master-box">
+                    <a class="mobile-menu__master-link" href="#" data-toggle="modal" data-target="#myFeedback4"
+                       onclick="clg(1); yaCounter24027328.reachGoal('zamer_vyzov'); return true;">Вызвать замерщика</a>
+                </div>
+                <div class="mobile-menu__close">
+                    <a class="mobile-menu__close-link" href="#" title="Закрыть меню">
+                        <span class="mobile__close-stripe-one"></span>
+                        <span class="mobile__close-stripe-two"></span>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="header__menu">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="bottom">
+                        <div class="navigation">
+                            <div class="container">
+                                <!--'start_frame_cache_XEVOpk'-->                    <nav>
+        <div class="colapse" onclick="clg(2);">
+            <div class="open-button">
+                <span class="sp1"></span>
+                <span class="sp2"></span>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <ul class="menu">
+            <!--            -->                                <li class="nav-menu__interior">
+                    <a href="/catalog/dveri/filter/vid_dveri-is-mezhkomnatnyie-dveri/">
+                        <i class="menu-category__icon"></i>Межкомнатные двери                    </a>
+                                        <ul class="drop-menu too_many" role="menu">
+                        <li>
+                                                                                            <span class="refactored-menu__item">
+                                    <a rel="nofollow" class="refactored-menu__img-link" href="/catalog/dveri/filter/vid_dveri-is-mezhkomnatnyie-dveri/materialyi-is-shponirovannyie/" href="#"><img class="refactored-menu__img" src="/upload/resize_cache/medialibrary/72d/280_170_1/72d458e8a00ea56200ae44251ffcca6c.png" alt="Шпонированые"></a>
+                                    <a class="refactored-menu__txt-link" href="/catalog/dveri/filter/vid_dveri-is-mezhkomnatnyie-dveri/materialyi-is-shponirovannyie/">Шпонированые</a>
+                                </span>
+                                                                                            <span class="refactored-menu__item">
+                                    <a rel="nofollow" class="refactored-menu__img-link" href="/catalog/dveri/filter/vid_dveri-is-mezhkomnatnyie-dveri/materialyi-is-ekoshpon/" href="#"><img class="refactored-menu__img" src="/upload/medialibrary/3b2/3b2359b6e99e45ab4857e7783686962a.png" alt="Экошпон"></a>
+                                    <a class="refactored-menu__txt-link" href="/catalog/dveri/filter/vid_dveri-is-mezhkomnatnyie-dveri/materialyi-is-ekoshpon/">Экошпон</a>
+                                </span>
+                                                                                            <span class="refactored-menu__item">
+                                    <a rel="nofollow" class="refactored-menu__img-link" href="/catalog/dveri/filter/vid_dveri-is-mezhkomnatnyie-dveri/materialyi-is-emal/" href="#"><img class="refactored-menu__img" src="/upload/medialibrary/848/8484d14eb97353f9480779f64d1df166.jpg" alt="Эмаль"></a>
+                                    <a class="refactored-menu__txt-link" href="/catalog/dveri/filter/vid_dveri-is-mezhkomnatnyie-dveri/materialyi-is-emal/">Эмаль</a>
+                                </span>
+                                                                                            <span class="refactored-menu__item">
+                                    <a rel="nofollow" class="refactored-menu__img-link" href="/catalog/dveri/filter/vid_dveri-is-mezhkomnatnyie-dveri/materialyi-is-massiv-sosnyi/" href="#"><img class="refactored-menu__img" src="/upload/medialibrary/3c1/3c1649702df4633469994b14f63b2202.jpg" alt="Из массива сосны"></a>
+                                    <a class="refactored-menu__txt-link" href="/catalog/dveri/filter/vid_dveri-is-mezhkomnatnyie-dveri/materialyi-is-massiv-sosnyi/">Из массива сосны</a>
+                                </span>
+                                                                                            <span class="refactored-menu__item">
+                                    <a rel="nofollow" class="refactored-menu__img-link" href="/catalog/dveri/filter/vid_dveri-is-mezhkomnatnyie-dveri/materialyi-is-massiv-duba/" href="#"><img class="refactored-menu__img" src="/upload/medialibrary/bfc/bfc921989b3d169ad92134ad252cf6ac.jpg" alt="Из массива дуба"></a>
+                                    <a class="refactored-menu__txt-link" href="/catalog/dveri/filter/vid_dveri-is-mezhkomnatnyie-dveri/materialyi-is-massiv-duba/">Из массива дуба</a>
+                                </span>
+                                                                                            <span class="refactored-menu__item">
+                                    <a rel="nofollow" class="refactored-menu__img-link" href="/catalog/dveri/filter/vid_dveri-is-mezhkomnatnyie-dveri/salee-is-y/" href="#"><img class="refactored-menu__img" src="/upload/medialibrary/e2f/e2f63370c47fd4d6889f97aa49a407ac.png" alt="Распродажа остатков"></a>
+                                    <a class="refactored-menu__txt-link" href="/catalog/dveri/filter/vid_dveri-is-mezhkomnatnyie-dveri/salee-is-y/">Распродажа остатков</a>
+                                </span>
+                                                                                            <span class="refactored-menu__item">
+                                    <a rel="nofollow" class="refactored-menu__img-link" href="/catalog/dveri/" href="#"><img class="refactored-menu__img" src="/upload/all_doors.jpg" alt="Все двери"></a>
+                                    <a class="refactored-menu__txt-link" href="/catalog/dveri/">Все двери</a>
+                                </span>
+                                                    </li>
+                    </ul>
+                                    </li>
+                                <li class="nav-menu__front_doors">
+                    <a href="/catalog/dveri/filter/vid_dveri-is-vhodnyie-dveri/">
+                        <i class="menu-category__icon"></i>Входные двери                    </a>
+                                        <ul class="drop-menu auto_width" data-count="3" role="menu">
+                        <li>
+                                                                                            <span class="refactored-menu__item">
+                                    <a rel="nofollow" class="refactored-menu__img-link" href="/catalog/dveri/filter/sostav_polotna-is-metallicheskie/" href="#"><img class="refactored-menu__img" src="/upload/resize_cache/iblock/369/280_170_1/369234c3cc451839bc9ea736fc4e245d.png" alt="Металлические двери"></a>
+                                    <a class="refactored-menu__txt-link" href="/catalog/dveri/filter/sostav_polotna-is-metallicheskie/">Металлические двери</a>
+                                </span>
+                                                                                            <span class="refactored-menu__item">
+                                    <a rel="nofollow" class="refactored-menu__img-link" href="/catalog/dveri/filter/vid_dveri-is-vhodnyie-dveri/naznachenie-is-v-kvartiru/" href="#"><img class="refactored-menu__img" src="/upload/flat_doors.jpg" alt="В квартиру"></a>
+                                    <a class="refactored-menu__txt-link" href="/catalog/dveri/filter/vid_dveri-is-vhodnyie-dveri/naznachenie-is-v-kvartiru/">В квартиру</a>
+                                </span>
+                                                                                            <span class="refactored-menu__item">
+                                    <a rel="nofollow" class="refactored-menu__img-link" href="/catalog/dveri/filter/vid_dveri-is-vhodnyie-dveri/naznachenie-is-v-dom/" href="#"><img class="refactored-menu__img" src="/upload/house_doors.jpg" alt="В дом"></a>
+                                    <a class="refactored-menu__txt-link" href="/catalog/dveri/filter/vid_dveri-is-vhodnyie-dveri/naznachenie-is-v-dom/">В дом</a>
+                                </span>
+                                                    </li>
+                    </ul>
+                                    </li>
+                <!--            -->                                            <!--Двернаяфурнитура-->                <li class="nav-menu__furniture">
+                    <a href="/catalog/furniture/">
+                        <i class="menu-category__icon"></i>Дверная фурнитура                    </a>
+                                            <ul class="drop-menu auto_width" data-count="5" role="menu">
+                            <li>
+                                                                <span class="refactored-menu__item">
+                                        <a rel="nofollow" class="refactored-menu__img-link" href="/catalog/furniture/handles/">
+                                            <img class="refactored-menu__img" src="/upload/resize_cache/iblock/aa4/1000_170_1/aa4256faf1a88c324df131cfc6c2b556.png" alt="Дверные ручки">
+                                                                                        </a>
+                                            <a class="refactored-menu__txt-link" href="/catalog/furniture/handles/">Дверные ручки</a>
+                                    </span>
+                                                                <span class="refactored-menu__item">
+                                        <a rel="nofollow" class="refactored-menu__img-link" href="/catalog/furniture/ogranichiteli/">
+                                            <img class="refactored-menu__img" src="/upload/resize_cache/iblock/0c6/1000_170_1/0c65023fd311e3dd3f3bddc74b271d5d.png" alt="Ограничители">
+                                                                                        </a>
+                                            <a class="refactored-menu__txt-link" href="/catalog/furniture/ogranichiteli/">Ограничители</a>
+                                    </span>
+                                                                <span class="refactored-menu__item">
+                                        <a rel="nofollow" class="refactored-menu__img-link" href="/catalog/furniture/petli/">
+                                            <img class="refactored-menu__img" src="/upload/resize_cache/iblock/920/1000_170_1/920e85e6701fd1c1c50cf4bfd87bd3bc.png" alt="Петли">
+                                                                                        </a>
+                                            <a class="refactored-menu__txt-link" href="/catalog/furniture/petli/">Петли</a>
+                                    </span>
+                                                                <span class="refactored-menu__item">
+                                        <a rel="nofollow" class="refactored-menu__img-link" href="/catalog/furniture/razdvizhnaya-sistema/">
+                                            <img class="refactored-menu__img" src="/upload/resize_cache/iblock/b18/1000_170_1/b1860bf8d6e6c3393590fc2ade062aba.png" alt="Раздвижная система">
+                                                                                        </a>
+                                            <a class="refactored-menu__txt-link" href="/catalog/furniture/razdvizhnaya-sistema/">Раздвижная система</a>
+                                    </span>
+                                                                <span class="refactored-menu__item">
+                                        <a rel="nofollow" class="refactored-menu__img-link" href="/catalog/furniture/shpingalety/">
+                                            <img class="refactored-menu__img" src="/upload/resize_cache/iblock/603/1000_170_1/6031c3077c1021aa7a1d75c067ea6c3a.png" alt="Шпингалеты">
+                                                                                        </a>
+                                            <a class="refactored-menu__txt-link" href="/catalog/furniture/shpingalety/">Шпингалеты</a>
+                                    </span>
+                                                            </li>
+                        </ul>
+                                    </li>
+                                            <!--Межкомнатныеарки-->                <li class="nav-menu__arch">
+                    <a href="/catalog/arch/">
+                        <i class="menu-category__icon"></i>Межкомнатные арки                    </a>
+                                            <ul class="drop-menu auto_width" data-count="5" role="menu">
+                            <li>
+                                                                <span class="refactored-menu__item">
+                                        <a rel="nofollow" class="refactored-menu__img-link" href="/catalog/arch/arka-klassika-belaya-emal/">
+                                            <img class="refactored-menu__img" src="/upload/resize_cache/iblock/724/1000_170_1/72487c0ec9e784b6bc6f94a0d03b8765.jpg" alt="Арка Классика белая эмаль">
+                                                                                        </a>
+                                            <a class="refactored-menu__txt-link" href="/catalog/arch/arka-klassika-belaya-emal/">Арка Классика белая эмаль</a>
+                                    </span>
+                                                                <span class="refactored-menu__item">
+                                        <a rel="nofollow" class="refactored-menu__img-link" href="/catalog/arch/arka-klassika-belenyy-dub/">
+                                            <img class="refactored-menu__img" src="/upload/resize_cache/iblock/8b6/1000_170_1/8b63ff776b8d6be89790ceba2b572e71.jpg" alt="Арка Классика беленый дуб">
+                                                                                        </a>
+                                            <a class="refactored-menu__txt-link" href="/catalog/arch/arka-klassika-belenyy-dub/">Арка Классика беленый дуб</a>
+                                    </span>
+                                                                <span class="refactored-menu__item">
+                                        <a rel="nofollow" class="refactored-menu__img-link" href="/catalog/arch/arka-klassika-makore/">
+                                            <img class="refactored-menu__img" src="/upload/resize_cache/iblock/526/1000_170_1/526288596a29ca905afeee2eba8fbf16.jpg" alt="Арка Классика макоре">
+                                                                                        </a>
+                                            <a class="refactored-menu__txt-link" href="/catalog/arch/arka-klassika-makore/">Арка Классика макоре</a>
+                                    </span>
+                                                                <span class="refactored-menu__item">
+                                        <a rel="nofollow" class="refactored-menu__img-link" href="/catalog/arch/arka-klassika-orekh/">
+                                            <img class="refactored-menu__img" src="/upload/resize_cache/iblock/0ff/1000_170_1/0ff9039d1411bff10a1401906ceaa694.jpg" alt="Арка Классика орех">
+                                                                                        </a>
+                                            <a class="refactored-menu__txt-link" href="/catalog/arch/arka-klassika-orekh/">Арка Классика орех</a>
+                                    </span>
+                                                                <span class="refactored-menu__item">
+                                        <a rel="nofollow" class="refactored-menu__img-link" href="/catalog/arch/arka-klassika-venge/">
+                                            <img class="refactored-menu__img" src="/upload/resize_cache/iblock/5c7/1000_170_1/5c727e6405f348256a5e240d6e99ef13.png" alt="Арка Классика венге">
+                                                                                        </a>
+                                            <a class="refactored-menu__txt-link" href="/catalog/arch/arka-klassika-venge/">Арка Классика венге</a>
+                                    </span>
+                                                            </li>
+                        </ul>
+                                    </li>
+                                <li class="header-menu__actions">
+                <a href="/pokupatelyu/aktsii/">
+                    <i class="menu-category__icon"></i>Акции                </a>
+            </li>
+                    </ul>
+        </nav>
+<!--'end_frame_cache_XEVOpk'-->                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="content">
+        <div class="container">    <div class="row">
+        <div class="m404">
+            <img src="/404img.png" border="0" class="img-responsive"  />
+<p>Нам очень жаль, но у нас нет такой страницы!<br>Вы можете посмотреть наши лучшие предложения для Вас!</p>
+            <!--        <img class="img-responsive" src="/images/404img.png" alt="">-->
+
+        </div>
+    </div>
+    <br>
+    <div class="row"> 
+<div class="slider">
+    <ul class="nav nav-pills center">
+        <li class="active"> <a href="#pop" data-toggle="tab">Хиты продаж</a> </li>
+
+        <li> <a href="#new" data-toggle="tab">Новые модели</a> </li>
+
+        <li> <a href="#sale" data-toggle="tab">Распродажа</a> </li>
+    </ul>
+
+    <div class="tab-content">
+        <div class="tab-pane types active" id="pop">
+            <div class="bestseller"> <!--'start_frame_cache_tGMMGM'-->        <div class="main-slider">
+        <div class="slider-wrap">
+            <ul>
+                                                        <li>
+                        <div class="item-block">
+                                                        <a class="for_img" href="/catalog/dveri/interior/mezhkomnatnaya-dver-kvadro-kashtan-po/">
+                                <img class="img-responsive"
+                                     src="/upload/iblock/4a4/4a4f7337f10f4236ca38dc95a732c7b2.jpg"
+                                     alt="Межкомнатная дверь Квадро каштан ПО"></a>
+
+                            <div class="item-name">
+
+                                Межкомнатная дверь Квадро каштан ПО                            </div>
+                                                                                                <div class="item-price">
+                                        <span class="act-price">9 101 руб.</span>
+                                    </div>
+                                                                                        <a class="see-more"
+                               href="/catalog/dveri/interior/mezhkomnatnaya-dver-kvadro-kashtan-po/">Подробнее</a>
+                            <div class="stickers">
+                                                            </div>
+                            <div class="stickers-left">
+                                                                                                                                                                    <div class="left-sticker__wrap">
+                                        <div class="left-sticker__outer left-outer--yellow">
+                                            <div class="left-sticker__inner left-sticker--yellow">
+                                                <span class="left-sticker__icon"></span>
+                                                <span class="left-sticker__name">Хит</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                                            </div>
+                                                    </div>
+                    </li>
+                                                        <li>
+                        <div class="item-block">
+                                                        <a class="for_img" href="/catalog/dveri/interior/mezhkomnatnaya-dver-kvadro-kashtan-pg/">
+                                <img class="img-responsive"
+                                     src="/upload/iblock/e52/e5260d643d90cc2b27c3d2dd5ce02da5.jpg"
+                                     alt="Межкомнатная дверь Квадро каштан ПГ"></a>
+
+                            <div class="item-name">
+
+                                Межкомнатная дверь Квадро каштан ПГ                            </div>
+                                                                                                <div class="item-price">
+                                        <span class="act-price">9 101 руб.</span>
+                                    </div>
+                                                                                        <a class="see-more"
+                               href="/catalog/dveri/interior/mezhkomnatnaya-dver-kvadro-kashtan-pg/">Подробнее</a>
+                            <div class="stickers">
+                                                            </div>
+                            <div class="stickers-left">
+                                                                                                                                                                    <div class="left-sticker__wrap">
+                                        <div class="left-sticker__outer left-outer--yellow">
+                                            <div class="left-sticker__inner left-sticker--yellow">
+                                                <span class="left-sticker__icon"></span>
+                                                <span class="left-sticker__name">Хит</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                                            </div>
+                                                    </div>
+                    </li>
+                                                        <li>
+                        <div class="item-block">
+                                                        <a class="for_img" href="/catalog/dveri/interior/mezhkomnatnaya-dver-prestizh-kashtan-po-reshetka/">
+                                <img class="img-responsive"
+                                     src="/upload/iblock/b38/b380705de48ee81896a4fb3dea8a81c2.png"
+                                     alt="Межкомнатная дверь Престиж каштан ПО (решетка)"></a>
+
+                            <div class="item-name">
+
+                                Межкомнатная дверь Престиж каштан ПО (решетка)                            </div>
+                                                                                                <div class="item-price">
+                                        <span class="act-price">13 067 руб.</span>
+                                    </div>
+                                                                                        <a class="see-more"
+                               href="/catalog/dveri/interior/mezhkomnatnaya-dver-prestizh-kashtan-po-reshetka/">Подробнее</a>
+                            <div class="stickers">
+                                                            </div>
+                            <div class="stickers-left">
+                                                                                                                                                                    <div class="left-sticker__wrap">
+                                        <div class="left-sticker__outer left-outer--yellow">
+                                            <div class="left-sticker__inner left-sticker--yellow">
+                                                <span class="left-sticker__icon"></span>
+                                                <span class="left-sticker__name">Хит</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                                            </div>
+                                                    </div>
+                    </li>
+                                                        <li>
+                        <div class="item-block">
+                                                        <a class="for_img" href="/catalog/dveri/interior/mezhkomnatnaya-dver-prestizh-kashtan-po/">
+                                <img class="img-responsive"
+                                     src="/upload/iblock/f4e/f4ed7de34cce8b3c7e7fefa4f8552880.png"
+                                     alt="Межкомнатная дверь Престиж каштан ПО"></a>
+
+                            <div class="item-name">
+
+                                Межкомнатная дверь Престиж каштан ПО                            </div>
+                                                                                                <div class="item-price">
+                                        <span class="act-price">13 067 руб.</span>
+                                    </div>
+                                                                                        <a class="see-more"
+                               href="/catalog/dveri/interior/mezhkomnatnaya-dver-prestizh-kashtan-po/">Подробнее</a>
+                            <div class="stickers">
+                                                            </div>
+                            <div class="stickers-left">
+                                                                                                                                                                    <div class="left-sticker__wrap">
+                                        <div class="left-sticker__outer left-outer--yellow">
+                                            <div class="left-sticker__inner left-sticker--yellow">
+                                                <span class="left-sticker__icon"></span>
+                                                <span class="left-sticker__name">Хит</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                                            </div>
+                                                    </div>
+                    </li>
+                                                        <li>
+                        <div class="item-block">
+                                                        <a class="for_img" href="/catalog/dveri/interior/mezhkomnatnaya-dver-prestizh-kashtan-pg/">
+                                <img class="img-responsive"
+                                     src="/upload/iblock/3e4/3e420bdbf6a7cae7f41143ccda9d0833.png"
+                                     alt="Межкомнатная дверь Престиж каштан ПГ"></a>
+
+                            <div class="item-name">
+
+                                Межкомнатная дверь Престиж каштан ПГ                            </div>
+                                                                                                <div class="item-price">
+                                        <span class="act-price">11 889 руб.</span>
+                                    </div>
+                                                                                        <a class="see-more"
+                               href="/catalog/dveri/interior/mezhkomnatnaya-dver-prestizh-kashtan-pg/">Подробнее</a>
+                            <div class="stickers">
+                                                            </div>
+                            <div class="stickers-left">
+                                                                                                                                                                    <div class="left-sticker__wrap">
+                                        <div class="left-sticker__outer left-outer--yellow">
+                                            <div class="left-sticker__inner left-sticker--yellow">
+                                                <span class="left-sticker__icon"></span>
+                                                <span class="left-sticker__name">Хит</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                                            </div>
+                                                    </div>
+                    </li>
+                                                        <li>
+                        <div class="item-block">
+                                                        <a class="for_img" href="/catalog/dveri/interior/mezhkomnatnaya-dver-kvadro-kashtan-poo/">
+                                <img class="img-responsive"
+                                     src="/upload/iblock/308/308d7e5eb057dba52871c96178105b27.jpg"
+                                     alt="Межкомнатная дверь Квадро каштан ПОО"></a>
+
+                            <div class="item-name">
+
+                                Межкомнатная дверь Квадро каштан ПОО                            </div>
+                                                                                                <div class="item-price">
+                                        <span class="act-price">9 101 руб.</span>
+                                    </div>
+                                                                                        <a class="see-more"
+                               href="/catalog/dveri/interior/mezhkomnatnaya-dver-kvadro-kashtan-poo/">Подробнее</a>
+                            <div class="stickers">
+                                                            </div>
+                            <div class="stickers-left">
+                                                                                                                                                                    <div class="left-sticker__wrap">
+                                        <div class="left-sticker__outer left-outer--yellow">
+                                            <div class="left-sticker__inner left-sticker--yellow">
+                                                <span class="left-sticker__icon"></span>
+                                                <span class="left-sticker__name">Хит</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                                            </div>
+                                                    </div>
+                    </li>
+                            </ul>
+        </div>
+                    <div class="slider-nav">
+                <button class="prev" data-dir="prev"><i class="icon-left-open"></i></button>
+                <button class="next" data-dir="next"><i class="icon-right-open"></i></button>
+            </div>
+            </div>
+<!--'end_frame_cache_tGMMGM'--> </div>
+        </div>
+
+        <div class="tab-pane types " id="new">
+            <div class="bestseller"> <!--'start_frame_cache_0YKErH'-->        <div class="main-slider">
+        <div class="slider-wrap">
+            <ul>
+                                                        <li>
+                        <div class="item-block">
+                                                        <a class="for_img" href="/catalog/dveri/interior/dver-mezhkomnatnaya-model-7-belyy-vosk-po/">
+                                <img class="img-responsive"
+                                     src="/upload/iblock/092/0926ae26f14834a33d999b7ca6a959a8.png"
+                                     alt="Дверь межкомнатная Модель №7 белый воск ПО"></a>
+
+                            <div class="item-name">
+
+                                Дверь межкомнатная Модель №7 белый воск ПО                            </div>
+                                                                                                <div class="item-price">
+                                        <span class="act-price">7 649 руб.</span>
+                                    </div>
+                                                                                        <a class="see-more"
+                               href="/catalog/dveri/interior/dver-mezhkomnatnaya-model-7-belyy-vosk-po/">Подробнее</a>
+                            <div class="stickers">
+                                                            </div>
+                            <div class="stickers-left">
+                                                                                                                                    <div class="left-sticker__wrap">
+                                        <div class="left-sticker__outer left-outer--green">
+                                            <div class="left-sticker__inner left-sticker--green">
+                                                <span class="left-sticker__icon"></span>
+                                                <span class="left-sticker__name">Новинка</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                                                                            </div>
+                                                    </div>
+                    </li>
+                                                        <li>
+                        <div class="item-block">
+                                                        <a class="for_img" href="/catalog/dveri/interior/dver-mezhkomnatnaya-model-7-belyy-vosk-pg/">
+                                <img class="img-responsive"
+                                     src="/upload/iblock/10d/10d9489b72fc968b73480afd95d97f22.png"
+                                     alt="Дверь межкомнатная Модель №7 белый воск ПГ"></a>
+
+                            <div class="item-name">
+
+                                Дверь межкомнатная Модель №7 белый воск ПГ                            </div>
+                                                                                                <div class="item-price">
+                                        <span class="act-price">5 758 руб.</span>
+                                    </div>
+                                                                                        <a class="see-more"
+                               href="/catalog/dveri/interior/dver-mezhkomnatnaya-model-7-belyy-vosk-pg/">Подробнее</a>
+                            <div class="stickers">
+                                                            </div>
+                            <div class="stickers-left">
+                                                                                                                                    <div class="left-sticker__wrap">
+                                        <div class="left-sticker__outer left-outer--green">
+                                            <div class="left-sticker__inner left-sticker--green">
+                                                <span class="left-sticker__icon"></span>
+                                                <span class="left-sticker__name">Новинка</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                                                                            </div>
+                                                    </div>
+                    </li>
+                                                        <li>
+                        <div class="item-block">
+                                                        <a class="for_img" href="/catalog/dveri/interior/dver-mezhkomnatnaya-plaza-nanofleks-tyemnyy-orekh-po-steklo-chernyy-tripleks/">
+                                <img class="img-responsive"
+                                     src="/upload/iblock/6ec/6ecfeb93207eecb7b01c3bd69fc1562d.jpg"
+                                     alt="Дверь межкомнатная Плаза Нанофлекс тёмный орех ПО (стекло: черный триплекс)"></a>
+
+                            <div class="item-name">
+
+                                Дверь межкомнатная Плаза Нанофлекс тёмный орех ПО (стекло: черный триплекс)                            </div>
+                                                                                                <div class="item-price">
+                                        <span class="act-price">5 468 руб.</span>
+                                    </div>
+                                                                                        <a class="see-more"
+                               href="/catalog/dveri/interior/dver-mezhkomnatnaya-plaza-nanofleks-tyemnyy-orekh-po-steklo-chernyy-tripleks/">Подробнее</a>
+                            <div class="stickers">
+                                                            </div>
+                            <div class="stickers-left">
+                                                                                                                                    <div class="left-sticker__wrap">
+                                        <div class="left-sticker__outer left-outer--green">
+                                            <div class="left-sticker__inner left-sticker--green">
+                                                <span class="left-sticker__icon"></span>
+                                                <span class="left-sticker__name">Новинка</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                                                                            </div>
+                                                    </div>
+                    </li>
+                                                        <li>
+                        <div class="item-block">
+                                                        <a class="for_img" href="/catalog/dveri/interior/dver-mezhkomnatnaya-plaza-2-nanofleks-tyemnyy-orekh-po-steklo-chernyy-tripleks/">
+                                <img class="img-responsive"
+                                     src="/upload/iblock/690/69078a8df9bcd9d1c5b094910a844514.jpg"
+                                     alt="Дверь межкомнатная Плаза-2 Нанофлекс тёмный орех ПО (стекло: черный триплекс)"></a>
+
+                            <div class="item-name">
+
+                                Дверь межкомнатная Плаза-2 Нанофлекс тёмный орех ПО (стекло: черный триплекс)                            </div>
+                                                                                                <div class="item-price">
+                                        <span class="act-price">5 468 руб.</span>
+                                    </div>
+                                                                                        <a class="see-more"
+                               href="/catalog/dveri/interior/dver-mezhkomnatnaya-plaza-2-nanofleks-tyemnyy-orekh-po-steklo-chernyy-tripleks/">Подробнее</a>
+                            <div class="stickers">
+                                                            </div>
+                            <div class="stickers-left">
+                                                                                                                                    <div class="left-sticker__wrap">
+                                        <div class="left-sticker__outer left-outer--green">
+                                            <div class="left-sticker__inner left-sticker--green">
+                                                <span class="left-sticker__icon"></span>
+                                                <span class="left-sticker__name">Новинка</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                                                                            </div>
+                                                    </div>
+                    </li>
+                                                        <li>
+                        <div class="item-block">
+                                                        <a class="for_img" href="/catalog/dveri/interior/dver-mezhkomnatnaya-plaza-nanofleks-belyy-yasen-po-steklo-chernyy-tripleks/">
+                                <img class="img-responsive"
+                                     src="/upload/iblock/6e5/6e5026ae06efdb21cbfc479b885563d5.jpg"
+                                     alt="Дверь межкомнатная Плаза Нанофлекс белый ясень ПО (стекло: черный триплекс)"></a>
+
+                            <div class="item-name">
+
+                                Дверь межкомнатная Плаза Нанофлекс белый ясень ПО (стекло: черный триплекс)                            </div>
+                                                                                                <div class="item-price">
+                                        <span class="act-price">5 468 руб.</span>
+                                    </div>
+                                                                                        <a class="see-more"
+                               href="/catalog/dveri/interior/dver-mezhkomnatnaya-plaza-nanofleks-belyy-yasen-po-steklo-chernyy-tripleks/">Подробнее</a>
+                            <div class="stickers">
+                                                            </div>
+                            <div class="stickers-left">
+                                                                                                                                    <div class="left-sticker__wrap">
+                                        <div class="left-sticker__outer left-outer--green">
+                                            <div class="left-sticker__inner left-sticker--green">
+                                                <span class="left-sticker__icon"></span>
+                                                <span class="left-sticker__name">Новинка</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                                                                            </div>
+                                                    </div>
+                    </li>
+                                                        <li>
+                        <div class="item-block">
+                                                        <a class="for_img" href="/catalog/dveri/interior/dver-mezhkomnatnaya-plaza-nanofleks-belyy-yasen-po-steklo-belyy-tripleks/">
+                                <img class="img-responsive"
+                                     src="/upload/iblock/a1b/a1baf635c7a481f9b2cd18237abe6a2e.jpg"
+                                     alt="Дверь межкомнатная Плаза Нанофлекс белый ясень ПО (стекло: белый триплекс)"></a>
+
+                            <div class="item-name">
+
+                                Дверь межкомнатная Плаза Нанофлекс белый ясень ПО (стекло: белый триплекс)                            </div>
+                                                                                                <div class="item-price">
+                                        <span class="act-price">5 468 руб.</span>
+                                    </div>
+                                                                                        <a class="see-more"
+                               href="/catalog/dveri/interior/dver-mezhkomnatnaya-plaza-nanofleks-belyy-yasen-po-steklo-belyy-tripleks/">Подробнее</a>
+                            <div class="stickers">
+                                                            </div>
+                            <div class="stickers-left">
+                                                                                                                                    <div class="left-sticker__wrap">
+                                        <div class="left-sticker__outer left-outer--green">
+                                            <div class="left-sticker__inner left-sticker--green">
+                                                <span class="left-sticker__icon"></span>
+                                                <span class="left-sticker__name">Новинка</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                                                                            </div>
+                                                    </div>
+                    </li>
+                                                        <li>
+                        <div class="item-block">
+                                                        <a class="for_img" href="/catalog/dveri/interior/dver-mezhkomnatnaya-plaza-2-nanofleks-belyy-yasen-po-steklo-chernyy-tripleks/">
+                                <img class="img-responsive"
+                                     src="/upload/iblock/6d6/6d677fbe9e241bd9268d6123e1d06e2c.jpg"
+                                     alt="Дверь межкомнатная Плаза-2 Нанофлекс белый ясень ПО (стекло: черный триплекс)"></a>
+
+                            <div class="item-name">
+
+                                Дверь межкомнатная Плаза-2 Нанофлекс белый ясень ПО (стекло: черный триплекс)                            </div>
+                                                                                                <div class="item-price">
+                                        <span class="act-price">5 468 руб.</span>
+                                    </div>
+                                                                                        <a class="see-more"
+                               href="/catalog/dveri/interior/dver-mezhkomnatnaya-plaza-2-nanofleks-belyy-yasen-po-steklo-chernyy-tripleks/">Подробнее</a>
+                            <div class="stickers">
+                                                            </div>
+                            <div class="stickers-left">
+                                                                                                                                    <div class="left-sticker__wrap">
+                                        <div class="left-sticker__outer left-outer--green">
+                                            <div class="left-sticker__inner left-sticker--green">
+                                                <span class="left-sticker__icon"></span>
+                                                <span class="left-sticker__name">Новинка</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                                                                            </div>
+                                                    </div>
+                    </li>
+                                                        <li>
+                        <div class="item-block">
+                                                        <a class="for_img" href="/catalog/dveri/interior/dver-mezhkomnatnaya-plaza-2-nanofleks-belyy-yasen-po-steklo-belyy-tripleks/">
+                                <img class="img-responsive"
+                                     src="/upload/iblock/a23/a23c0eca9d5ef7ee573a6b4cc783d527.jpg"
+                                     alt="Дверь межкомнатная Плаза-2 Нанофлекс белый ясень ПО (стекло: белый триплекс)"></a>
+
+                            <div class="item-name">
+
+                                Дверь межкомнатная Плаза-2 Нанофлекс белый ясень ПО (стекло: белый триплекс)                            </div>
+                                                                                                <div class="item-price">
+                                        <span class="act-price">5 468 руб.</span>
+                                    </div>
+                                                                                        <a class="see-more"
+                               href="/catalog/dveri/interior/dver-mezhkomnatnaya-plaza-2-nanofleks-belyy-yasen-po-steklo-belyy-tripleks/">Подробнее</a>
+                            <div class="stickers">
+                                                            </div>
+                            <div class="stickers-left">
+                                                                                                                                    <div class="left-sticker__wrap">
+                                        <div class="left-sticker__outer left-outer--green">
+                                            <div class="left-sticker__inner left-sticker--green">
+                                                <span class="left-sticker__icon"></span>
+                                                <span class="left-sticker__name">Новинка</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                                                                            </div>
+                                                    </div>
+                    </li>
+                            </ul>
+        </div>
+                    <div class="slider-nav">
+                <button class="prev" data-dir="prev"><i class="icon-left-open"></i></button>
+                <button class="next" data-dir="next"><i class="icon-right-open"></i></button>
+            </div>
+            </div>
+<!--'end_frame_cache_0YKErH'--> </div>
+        </div>
+
+        <div class="tab-pane types" id="sale">
+            <div class="bestseller"> <!--'start_frame_cache_65ChJ6'-->        <div class="main-slider">
+        <div class="slider-wrap">
+            <ul>
+                                                        <li>
+                        <div class="item-block">
+                                                        <a class="for_img" href="/catalog/dveri/interior/mezhkomnatnaya-dver-barselona-palisandr-pg/">
+                                <img class="img-responsive"
+                                     src="/upload/iblock/8a4/8a458f3465a68fcaf380e46bead680f7.jpg"
+                                     alt="Межкомнатная дверь Барселона палисандр ПГ"></a>
+
+                            <div class="item-name">
+
+                                Межкомнатная дверь Барселона палисандр ПГ                            </div>
+                                                                                                <div class="item-price">
+                                        <span class="old-price">10 000 руб.</span>
+                                        <span class="act-price">3 000 руб.</span>
+                                    </div>
+                                                                                        <a class="see-more"
+                               href="/catalog/dveri/interior/mezhkomnatnaya-dver-barselona-palisandr-pg/">Подробнее</a>
+                            <div class="stickers">
+                                                            </div>
+                            <div class="stickers-left">
+                                                                    <div class="left-sticker__wrap">
+                                        <div class="left-sticker__outer left-outer--red-double">
+                                            <div class="left-sticker__inner left-sticker--red-double">
+                                                <span class="left-sticker__icon"></span>
+                                                <span class="left-sticker__name">Распродажа остатков</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                                                                                                                                            </div>
+                                                                                            <div class="stickers-right">
+                                    <div class="right-sticker__wrap">
+                                        <div class="right-sticker__outer">
+                                            <div class="right-sticker__inner right-sticker__red">
+                                                <span class="right-sticker__numb">-70</span>
+                                                <span class="right-sticker__comm">%</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                                    </div>
+                    </li>
+                                                        <li>
+                        <div class="item-block">
+                                                        <a class="for_img" href="/catalog/dveri/interior/mezhkomnatnaya-dver-barselona-palisandr-po/">
+                                <img class="img-responsive"
+                                     src="/upload/iblock/3f6/3f66c89b2609db3ea5fd7a333a48448e.jpg"
+                                     alt="Межкомнатная дверь Барселона палисандр ПО"></a>
+
+                            <div class="item-name">
+
+                                Межкомнатная дверь Барселона палисандр ПО                            </div>
+                                                                                                <div class="item-price">
+                                        <span class="old-price">11 000 руб.</span>
+                                        <span class="act-price">3 000 руб.</span>
+                                    </div>
+                                                                                        <a class="see-more"
+                               href="/catalog/dveri/interior/mezhkomnatnaya-dver-barselona-palisandr-po/">Подробнее</a>
+                            <div class="stickers">
+                                                            </div>
+                            <div class="stickers-left">
+                                                                    <div class="left-sticker__wrap">
+                                        <div class="left-sticker__outer left-outer--red-double">
+                                            <div class="left-sticker__inner left-sticker--red-double">
+                                                <span class="left-sticker__icon"></span>
+                                                <span class="left-sticker__name">Распродажа остатков</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                                                                                                                                            </div>
+                                                                                            <div class="stickers-right">
+                                    <div class="right-sticker__wrap">
+                                        <div class="right-sticker__outer">
+                                            <div class="right-sticker__inner right-sticker__red">
+                                                <span class="right-sticker__numb">-73</span>
+                                                <span class="right-sticker__comm">%</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                                    </div>
+                    </li>
+                                                        <li>
+                        <div class="item-block">
+                                                        <a class="for_img" href="/catalog/dveri/interior/mezhkomnatnaya-dver-bastion-svetlyy-dub-pg/">
+                                <img class="img-responsive"
+                                     src="/upload/iblock/aab/aab8e9e930464471fa70ae75854e26ff.jpg"
+                                     alt="Межкомнатная дверь Бастион светлый дуб ПГ"></a>
+
+                            <div class="item-name">
+
+                                Межкомнатная дверь Бастион светлый дуб ПГ                            </div>
+                                                                                                <div class="item-price">
+                                        <span class="old-price">10 182 руб.</span>
+                                        <span class="act-price">3 000 руб.</span>
+                                    </div>
+                                                                                        <a class="see-more"
+                               href="/catalog/dveri/interior/mezhkomnatnaya-dver-bastion-svetlyy-dub-pg/">Подробнее</a>
+                            <div class="stickers">
+                                                            </div>
+                            <div class="stickers-left">
+                                                                    <div class="left-sticker__wrap">
+                                        <div class="left-sticker__outer left-outer--red-double">
+                                            <div class="left-sticker__inner left-sticker--red-double">
+                                                <span class="left-sticker__icon"></span>
+                                                <span class="left-sticker__name">Распродажа остатков</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                                                                                                                                            </div>
+                                                                                            <div class="stickers-right">
+                                    <div class="right-sticker__wrap">
+                                        <div class="right-sticker__outer">
+                                            <div class="right-sticker__inner right-sticker__red">
+                                                <span class="right-sticker__numb">-71</span>
+                                                <span class="right-sticker__comm">%</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                                    </div>
+                    </li>
+                                                        <li>
+                        <div class="item-block">
+                                                        <a class="for_img" href="/catalog/dveri/interior/mezhkomnatnaya-dver-vena-orekh-po/">
+                                <img class="img-responsive"
+                                     src="/upload/iblock/3d8/3d89b8dcd32f31f57de1ad7658e491e6.jpg"
+                                     alt="Межкомнатная дверь Вена орех ПО"></a>
+
+                            <div class="item-name">
+
+                                Межкомнатная дверь Вена орех ПО                            </div>
+                                                                                                <div class="item-price">
+                                        <span class="old-price">14 365 руб.</span>
+                                        <span class="act-price">4 789 руб.</span>
+                                    </div>
+                                                                                        <a class="see-more"
+                               href="/catalog/dveri/interior/mezhkomnatnaya-dver-vena-orekh-po/">Подробнее</a>
+                            <div class="stickers">
+                                                            </div>
+                            <div class="stickers-left">
+                                                                    <div class="left-sticker__wrap">
+                                        <div class="left-sticker__outer left-outer--red-double">
+                                            <div class="left-sticker__inner left-sticker--red-double">
+                                                <span class="left-sticker__icon"></span>
+                                                <span class="left-sticker__name">Распродажа остатков</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                                                                                                                                            </div>
+                                                                                            <div class="stickers-right">
+                                    <div class="right-sticker__wrap">
+                                        <div class="right-sticker__outer">
+                                            <div class="right-sticker__inner right-sticker__red">
+                                                <span class="right-sticker__numb">-67</span>
+                                                <span class="right-sticker__comm">%</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                                    </div>
+                    </li>
+                                                        <li>
+                        <div class="item-block">
+                                                        <a class="for_img" href="/catalog/dveri/interior/mezhkomnatnaya-dver-versal-temnyy-dub-pg/">
+                                <img class="img-responsive"
+                                     src="/upload/iblock/b45/b450e0308683cbd98236e8e06e13c242.png"
+                                     alt="Межкомнатная дверь Версаль темный дуб ПГ"></a>
+
+                            <div class="item-name">
+
+                                Межкомнатная дверь Версаль темный дуб ПГ                            </div>
+                                                                                                <div class="item-price">
+                                        <span class="old-price">13 789 руб.</span>
+                                        <span class="act-price">3 000 руб.</span>
+                                    </div>
+                                                                                        <a class="see-more"
+                               href="/catalog/dveri/interior/mezhkomnatnaya-dver-versal-temnyy-dub-pg/">Подробнее</a>
+                            <div class="stickers">
+                                                            </div>
+                            <div class="stickers-left">
+                                                                    <div class="left-sticker__wrap">
+                                        <div class="left-sticker__outer left-outer--red-double">
+                                            <div class="left-sticker__inner left-sticker--red-double">
+                                                <span class="left-sticker__icon"></span>
+                                                <span class="left-sticker__name">Распродажа остатков</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                                                                                                                                            </div>
+                                                                                            <div class="stickers-right">
+                                    <div class="right-sticker__wrap">
+                                        <div class="right-sticker__outer">
+                                            <div class="right-sticker__inner right-sticker__red">
+                                                <span class="right-sticker__numb">-78</span>
+                                                <span class="right-sticker__comm">%</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                                    </div>
+                    </li>
+                                                        <li>
+                        <div class="item-block">
+                                                        <a class="for_img" href="/catalog/dveri/interior/mezhkomnatnaya-dver-viktoriya-po-svetlyy-dub/">
+                                <img class="img-responsive"
+                                     src="/upload/iblock/146/14689443a38ac74203ffb0a6f822cfde.png"
+                                     alt="Межкомнатная дверь Виктория ПО светлый дуб"></a>
+
+                            <div class="item-name">
+
+                                Межкомнатная дверь Виктория ПО светлый дуб                            </div>
+                                                                                                <div class="item-price">
+                                        <span class="old-price">5 383 руб.</span>
+                                        <span class="act-price">3 382 руб.</span>
+                                    </div>
+                                                                                        <a class="see-more"
+                               href="/catalog/dveri/interior/mezhkomnatnaya-dver-viktoriya-po-svetlyy-dub/">Подробнее</a>
+                            <div class="stickers">
+                                                            </div>
+                            <div class="stickers-left">
+                                                                    <div class="left-sticker__wrap">
+                                        <div class="left-sticker__outer left-outer--red-double">
+                                            <div class="left-sticker__inner left-sticker--red-double">
+                                                <span class="left-sticker__icon"></span>
+                                                <span class="left-sticker__name">Распродажа остатков</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                                                                                                                                            </div>
+                                                                                            <div class="stickers-right">
+                                    <div class="right-sticker__wrap">
+                                        <div class="right-sticker__outer">
+                                            <div class="right-sticker__inner right-sticker__red">
+                                                <span class="right-sticker__numb">-37</span>
+                                                <span class="right-sticker__comm">%</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                                    </div>
+                    </li>
+                                                        <li>
+                        <div class="item-block">
+                                                        <a class="for_img" href="/catalog/dveri/interior/mezhkomnatnaya-dver-viktoriya-pg-svetlyy-dub/">
+                                <img class="img-responsive"
+                                     src="/upload/iblock/26a/26a760adcd7cc297429f2f63b9d718d8.png"
+                                     alt="Межкомнатная дверь Виктория ПГ светлый дуб"></a>
+
+                            <div class="item-name">
+
+                                Межкомнатная дверь Виктория ПГ светлый дуб                            </div>
+                                                                                                <div class="item-price">
+                                        <span class="old-price">4 233 руб.</span>
+                                        <span class="act-price">2 659 руб.</span>
+                                    </div>
+                                                                                        <a class="see-more"
+                               href="/catalog/dveri/interior/mezhkomnatnaya-dver-viktoriya-pg-svetlyy-dub/">Подробнее</a>
+                            <div class="stickers">
+                                                            </div>
+                            <div class="stickers-left">
+                                                                    <div class="left-sticker__wrap">
+                                        <div class="left-sticker__outer left-outer--red-double">
+                                            <div class="left-sticker__inner left-sticker--red-double">
+                                                <span class="left-sticker__icon"></span>
+                                                <span class="left-sticker__name">Распродажа остатков</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                                                                                                                                            </div>
+                                                                                            <div class="stickers-right">
+                                    <div class="right-sticker__wrap">
+                                        <div class="right-sticker__outer">
+                                            <div class="right-sticker__inner right-sticker__red">
+                                                <span class="right-sticker__numb">-37</span>
+                                                <span class="right-sticker__comm">%</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                                    </div>
+                    </li>
+                                                        <li>
+                        <div class="item-block">
+                                                        <a class="for_img" href="/catalog/dveri/interior/mezhkomnatnaya-dver-viktoriya-orekh-po/">
+                                <img class="img-responsive"
+                                     src="/upload/iblock/d68/d687c34fc82b9e28c0a2eecf05831604.jpg"
+                                     alt="Межкомнатная дверь Виктория орех ПО"></a>
+
+                            <div class="item-name">
+
+                                Межкомнатная дверь Виктория орех ПО                            </div>
+                                                                                                <div class="item-price">
+                                        <span class="old-price">5 383 руб.</span>
+                                        <span class="act-price">3 382 руб.</span>
+                                    </div>
+                                                                                        <a class="see-more"
+                               href="/catalog/dveri/interior/mezhkomnatnaya-dver-viktoriya-orekh-po/">Подробнее</a>
+                            <div class="stickers">
+                                                            </div>
+                            <div class="stickers-left">
+                                                                    <div class="left-sticker__wrap">
+                                        <div class="left-sticker__outer left-outer--red-double">
+                                            <div class="left-sticker__inner left-sticker--red-double">
+                                                <span class="left-sticker__icon"></span>
+                                                <span class="left-sticker__name">Распродажа остатков</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                                                                                                                                            </div>
+                                                                                            <div class="stickers-right">
+                                    <div class="right-sticker__wrap">
+                                        <div class="right-sticker__outer">
+                                            <div class="right-sticker__inner right-sticker__red">
+                                                <span class="right-sticker__numb">-37</span>
+                                                <span class="right-sticker__comm">%</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                                    </div>
+                    </li>
+                            </ul>
+        </div>
+                    <div class="slider-nav">
+                <button class="prev" data-dir="prev"><i class="icon-left-open"></i></button>
+                <button class="next" data-dir="next"><i class="icon-right-open"></i></button>
+            </div>
+            </div>
+<!--'end_frame_cache_65ChJ6'--> </div>
+        </div>
+    </div>
+    <!--'start_frame_cache_gal_slider'-->        <!--'end_frame_cache_gal_slider'-->    </div> </div>
+    <br>
+    <div class="m404">
+        <a href="/"  class="see-more">Или попробуйте начать с главной</a>
+    </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="f-top">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-9 col-sm-7 h768">
+                            <p>Получайте свежую информацию об <br/> акциях, спецпредложениях, скидках</p>
+
+                            <form action="" class="subs_form_foo">
+                                <div class="form-group">
+                                    <input type="text" id="email_sub" class="form-control required r_email"
+                                           onfocus="subscribe($(this))"
+                                           placeholder="Введите Ваш e-mail">
+                                </div>
+                                <input type="button" value="Отправить"
+                                       onclick="add_subscribe('foo'); yaCounter25392278.reachGoal('podpis_novosti'); return true;">
+                            </form>
+                        </div>
+                        <div class="col-md-3 col-sm-5">
+                            <div class="cosialn">
+                                <!--<a class="fb" href="https://www.facebook.com/DveriBelorussiiUkraine" target="_blank" ></a> -->
+<a class="yt" href="https://www.youtube.com/channel/UC4_S_aGE2Mz4A0wwuyk4EiA" target="_blank" ></a> 
+<!--<a class="vk" href="https://vk.com/dveri_belorussii" target="_blank" ></a> -->
+<a class="gp" href="https://plus.google.com/b/110442165088729160629/+DveribelorussiiRu/posts?gmbpt=true&pageId=110442165088729160629&hl=ru" target="_blank" ></a> 
+<a class="ins" href="https://instagram.com/dveribelorussii_official/" target="_blank" ></a>
+                            </div>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="f-wrapper">
+            <div class="row">
+                <div class="col-md-3 col-sm-6">
+                    <div class="footer-title">
+                        <span class="h5">Каталог</span>
+                    </div>
+                    <ul class="f-hide">
+                        <!--'start_frame_cache_g8taYv'-->		<li><a rel="nofollow" href="/catalog/dveri/">Все двери</a></li>
+		<li><a rel="nofollow" href="/catalog/dveri/filter/vid_dveri-is-mezhkomnatnyie-dveri/">Межкомнатные двери</a></li>
+		<li><a rel="nofollow" href="/catalog/dveri/filter/vid_dveri-is-vhodnyie-dveri/">Входные двери</a></li>
+		<li><a rel="nofollow" href="/catalog/furniture/">Дверная фурнитура</a></li>
+		<li><a rel="nofollow" href="/catalog/arch/">Межкомнатные арки</a></li>
+<!--'end_frame_cache_g8taYv'-->                    </ul>
+                </div>
+                <div class="col-md-2 col-sm-4 hidden-sm">
+                    <div class="footer-title">
+                        <span class="h5">О компании</span>
+                    </div>
+                    <ul class="f-hide">
+                        <!--'start_frame_cache_rIpOz9'-->
+					<li><a   rel="nofollow" href="/about/about_us/">О нас</a></li>
+		
+					<li><a   rel="nofollow" href="/news/">Новости</a></li>
+		
+					<li><a   rel="nofollow" href="/about/vystavki/">Выставки</a></li>
+		
+					<li><a   rel="nofollow" href="/about/vakansii/">Вакансии</a></li>
+		
+
+<!--'end_frame_cache_rIpOz9'-->                    </ul>
+                </div>
+                <div class="col-md-2 col-sm-4 hidden-sm">
+                    <div class="footer-title">
+                        <span class="h5">Покупателю</span>
+                    </div>
+                    <ul class="f-hide">
+                        <!--'start_frame_cache_NMQc3w'-->
+					<li><a   rel="nofollow" href="/pokupatelyu/kak-kupit/">Как купить</a></li>
+		
+					<li><a   rel="nofollow" href="/pokupatelyu/uslugi/">Замер и монтаж</a></li>
+		
+					<li><a   rel="nofollow" href="/pokupatelyu/dostavka-i-oplata/">Доставка и оплата</a></li>
+		
+					<li><a   rel="nofollow" href="/pokupatelyu/aktsii/">Акции</a></li>
+		
+					<li><a   rel="nofollow" href="/pokupatelyu/garantii/">Гарантия</a></li>
+		
+					<li><a   rel="nofollow" href="/pokupatelyu/znak_kachestva/">Знак качества</a></li>
+		
+					<li><a   rel="nofollow" href="/pokupatelyu/gid-pokupatelya/">Гид покупателя</a></li>
+		
+
+<!--'end_frame_cache_NMQc3w'-->                    </ul>
+                </div>
+                <div class="col-md-2 col-sm-6 hidden-sm">
+                    <div class="footer-title">
+                        <span class="h5">Партнерам</span>
+                    </div>
+                    <ul class="f-hide">
+                        <!--'start_frame_cache_mKUqxK'-->
+					<li><a   rel="nofollow" href="/partneram/franchayzing/">Стать дилером</a></li>
+		
+					<li><a   rel="nofollow" href="/partneram/arhitektoram-i-dizayneram/">Архитекторам и дизайнерам</a></li>
+		
+					<li><a   rel="nofollow" href="/partneram/stroitelnyim-kompaniyam/">Строительным компаниям</a></li>
+		
+					<li><a   rel="nofollow" href="/partneram/eksport/">Экспорт</a></li>
+		
+					<li><a target="_blank" id="catalog" rel="nofollow" href="/upload/Catalog_TM_Dveri_Belorussii.pdf">Скачать каталог (pdf)</a></li>
+		
+
+<!--'end_frame_cache_mKUqxK'-->                    </ul>
+                </div>
+
+                <div class="col-md-3 col-sm-6 contacts no-padding-right">
+                    <div class="footer-title">
+                        <span class="h5">Контакты</span>
+                    </div>
+                    <ul class="f-hide">
+                        <!--'start_frame_cache_ysUIZy'--><li>
+    <i class="icon-location"></i>
+    <div class="wc">
+        <a class="map" href="/contacts/">
+            <span class="cont_text">Наш адрес:</span> Новорязанское шоссе 23 км, строение 21, Люберецкий район, Московская область</a>
+    </div>
+</li>
+<li>
+    <i class="icon-mail-alt"></i>
+    <span>
+        <span class="cont_text">e-mail: </span>office@dveribelorussii.ru</span>
+
+    <div>
+        <p>
+            <a class="call-back" data-toggle="modal" data-target="#myFeedback9">Написать нам</a>
+        </p>
+    </div>
+</li>
+<li>
+    <i class="icon-phone"></i>
+    <span>
+        <span class="cont_text">Телефон компании </span>
+        <span style="padding:0;">
+            <a id="footer_phone-ajax" href="tel:+7 (495) 120-31-91">+7 (495) 120-31-91</a>
+        </span>
+    </span>
+
+    <div>
+        <p>
+            <a class="call-back" data-toggle="modal" data-target="#myFeedback1">Перезвоните мне</a>
+        </p>
+    </div>
+</li>
+<li>
+    <i class="icon-globe"></i>
+        <a rel="nofollow" class="map saloni" onclick="yaCounter25392278.reachGoal('saloni_futer'); return true;"
+       href="/firmennie-saloni/">Адреса магазинов</a>
+    </li><!--'end_frame_cache_ysUIZy'-->                    </ul>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-7 we-work-inside">
+                    <ul class="we-work">
+                        <li>Работаем в:</li>
+                        <li>
+                            <a href="javascript:void(0);" rel="nofollow"><img
+                                        src="/local/templates/standart/images/brus.png"
+                                        alt=""> Беларусь                            </a>
+                        </li>
+                        <li>
+                            <a href="http://dveribelorussii.com.ua/">
+                                <img src="/local/templates/standart/images/ukr.png"
+                                     alt=""> Украина                            </a>
+                        </li>
+                        <li>
+                            <a href="https://dveribelorussii.ru/">
+                                <img src="/local/templates/standart/images/rus.png" alt=""> Россия                            </a>
+                        </li>
+                        <li>
+                            <a href="http://dveribelorussii.md/" rel="nofollow"><img
+                                        src="/local/templates/standart/images/mold.png"
+                                        alt=""> Молдова</a>
+                        </li>
+                        <li>
+                            <a href="http://miyagi.az/katalog-tovarov/dveri-belorussii"><img
+                                        src="/local/templates/standart/images/azer.png"
+                                        alt=""> Азербайджан</a>
+                        </li>
+                        <li>
+                            <a href="/kazakhstan/"><img src="/local/templates/standart/images/kaz.png"
+                                                        alt=""> Казахстан</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-2 h768">
+                    <a class="be-partner" onclick="yaCounter25392278.reachGoal('stat_partnerom'); return true;"
+                       data-toggle="modal"
+                       data-target="#myFeedback11">Стать партнером</a>
+                </div>
+                <div class="col-md-3">
+                    <p class="download hidden-sm">Скачать мобильное приложение для:</p>
+                    <a class="app appstore" onclick="yaCounter25392278.reachGoal('app'); return true;"
+                       href="https://itunes.apple.com/us/app/dveri-belorussii/id744183894?mt=8"
+                       target="_blank">
+                        <img class="img-responsive" src="/local/templates/standart/images/apple.png" alt="">
+                    </a>
+                    <a class="app gplay" onclick="yaCounter25392278.reachGoal('android'); return true;"
+                       href="https://play.google.com/store/apps/details?id=com.belorus.door"
+                       target="_blank">
+                        <img class="img-responsive" src="/local/templates/standart/images/gplay.png" alt="">
+                    </a>
+                </div>
+            </div>
+            <div class="row">
+                <div class="copyright">
+                    <div class="col-md-3 frst">© 2005 - 2017.  ТПГ «Двери Белоруссии»</div>
+                    <div class="col-md-3">
+                        <p class="for-c">
+                            <a rel="nofollow"
+                               href="/pokupatelyu/agreement/">Сайт не является договором оферты</a>
+                        </p>
+                    </div>
+                    <div class="col-md-2">
+                        <p class="for-c row">
+                            <a class="for-space" rel="nofollow"
+                               href="/about/policies_privacy/">Политика конфиденциальности</a>
+                        </p>
+                    </div>
+                    <div class="col-md-2"><p class="lenal_technologies row">Заряжено технологиями <a
+                                    rel="nofollow" href="http://lenal.biz/">LENAL</a></p></div>
+                    <a href="http://www.dmca.com/Protection/Status.aspx?ID=080bfe7d-60b8-4112-9463-b2e9770d0470"
+                       title="DMCA.com Protection Status" class="dmca-badge"> <img
+                                src="//images.dmca.com/Badges/_dmca_premi_badge_4.png?ID=080bfe7d-60b8-4112-9463-b2e9770d0470"
+                                alt="DMCA.com Protection Status"></a>
+                                        <div class="col-md-2">
+                        <div id="bx-composite-banner"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="f-bottom"></div>
+        </div>
+    </div>
+</footer>
+</div>
+</div>
+<input type="hidden" value="s1" name="SITE_ID"/>
+<div class="fade-block"></div>
+<div class="big-img">
+    <div class="pop-fade-block"></div>
+    <div class="pop_up" style="position: relative; display: inline-block;">
+        <div class="gb-close"><i class="icon-cancel"></i></div>
+        <img src="" alt=""/>
+
+        <div class="left-slide"><i class="icon-left-open"></i></div>
+        <div class="right-slide"><i class="icon-right-open"></i></div>
+    </div>
+</div>
+<!--'start_frame_cache_4enrz3'-->    <!-- Modal -->
+<div class="modal fade modal_feedback" id="myFeedback4" tabindex="-1" role="dialog"
+     aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="gb-close" data-dismiss="modal" aria-label="Close"><i class="icon-cancel"></i></div>
+                <span class="h4 modal_h4 modal-title" id="myModalLabel">Вызов замерщика</span>
+            </div>
+            <div class="modal-body">
+                <form action="" class="modal_form">
+                                                                    <div
+                            class="form-group text ">
+                            <label class="control-label" for="inputSuccess1"></label>
+                                                                                                <input
+                                        type="text"
+                                        name="form_text_16"
+                                        class="icon-16 form-control "
+                                        style="width:100%"
+                                        placeholder="ФИО: "
+                                                                                                                    >
+                                                                                    </div>
+                                                                    <div
+                            class="form-group text required">
+                            <label class="control-label" for="inputSuccess1"></label>
+                                                                                                <input
+                                        type="tel"
+                                        name="form_text_18"
+                                        class="icon-18 form-control phone"
+                                        style="width:100%"
+                                        placeholder="Телефон: *"
+                                                                                                                    >
+                                                                                    </div>
+                                                                    <div
+                            class="form-group text required">
+                            <label class="control-label" for="inputSuccess1"></label>
+                                                                                                <input
+                                        type="text"
+                                        name="form_text_21"
+                                        class="icon-21 form-control "
+                                        style="width:100%"
+                                        placeholder="Город: *"
+                                                                                                                    >
+                                                                                    </div>
+                                                                                        <div class="form-agreement__row form-group checkbox required">
+                        <input id="agreement-check-4"
+                               type="checkbox"
+                               class="form-agreement__checkbox"
+                               name="agreement-check"
+                               checked>
+                        <label for="agreement-check-4" class="form-agreement__label">
+                            <span class="form-agreement__txt"> Я соглашаюсь на</span>
+                            <a href="/about/policies_privacy/" target="_blank" class="form-agreement__link">обработку персональных данных</a>
+                        </label>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <!--                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>-->
+                <div class="form_answer">
+                    <span>Спасибо, что обратились к нам. В ближайшее время с 09:00 до 20:00, с Вами свяжется наш менеджер для уточнения времени замера и Ваших пожеланий. Всего Вам хорошего! </span>
+                    <a class="see-more ok_button" data-dismiss="modal" aria-label="Close"
+                       href="javascript:void(0)">Ок</a>
+                </div>
+                <div class="col-md-12">
+                    <div class="row">
+                        <div class="modal-see-more__wrap">
+<!--                            <pre>--><!--</pre>-->
+                            <a class="see-more send_form" href="javascript:void(0)"
+                               onclick=""
+                                id="zamer_send" >Вызвать замерщика</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-12 form-descr hidden-sm hidden-xs">
+                    <div class="row">
+                        <div>
+	<div style="box-sizing: border-box; color: #333333; font-family: 'Open Sans', Arial, sans-serif; line-height: 20px; background-color: #ffffff;">
+		<p>
+		</p>
+	</div>
+</div>
+<div>
+	 Вам важна уверенность при монтаже и расчет оптимального варианта? Выбираете нестандартные двери или у Вас нестандартные проемы? <br>
+ <br>
+	 Рекомендуем услугу замера. Это поможет Вам получить точные расчеты мастера с минимальными затратами и максимально положительным результатом. <br>
+ <br>
+ <b>Стоимость:</b><br>
+	 В Москве - 1000 руб., за МКАД +30 руб./км<br>
+	 В других городах России - уточняйте по телефону<br>
+</div>
+<br>                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    </div><!--'end_frame_cache_4enrz3'--><!--'start_frame_cache_LRbDtM'-->    <!-- Modal -->
+<div class="modal fade modal_feedback" id="myFeedback11" tabindex="-1" role="dialog"
+     aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="gb-close" data-dismiss="modal" aria-label="Close"><i class="icon-cancel"></i></div>
+                <span class="h4 modal_h4 modal-title" id="myModalLabel">Стать партнером</span>
+            </div>
+            <div class="modal-body">
+                <form action="" class="modal_form">
+                                                                    <div
+                            class="form-group dropdown ">
+                            <label class="control-label" for="inputSuccess1"></label>
+                                                            <span class="form-dropdown__heading">Вид партнерства</span>
+                                <div class="dropdown-modal">
+                                    <span>Франчайзинг</span><i
+                                        class="icon-down-open"></i>
+                                    <ul class="hide-list">
+                                                                                    <li data-id="72">Франчайзинг</li>
+                                                                                    <li data-id="73">Брендированная точка</li>
+                                                                                    <li data-id="74">Архитекторам и дизайнерам</li>
+                                                                                    <li data-id="76">Строительным компаниям</li>
+                                                                                    <li data-id="125">Экспорт</li>
+                                                                            </ul>
+                                    <input type="hidden" name="form_dropdown_SIMPLE_QUESTION_834"
+                                           value="72"/>
+                                </div>
+                                                    </div>
+                                                                    <div
+                            class="form-group text ">
+                            <label class="control-label" for="inputSuccess1"></label>
+                                                                                                <input
+                                        type="text"
+                                        name="form_text_65"
+                                        class="icon-65 form-control "
+                                        style="width:100%"
+                                        placeholder="Ваше имя: "
+                                                                                                                    >
+                                                                                    </div>
+                                                                    <div
+                            class="form-group text ">
+                            <label class="control-label" for="inputSuccess1"></label>
+                                                                                                <input
+                                        type="text"
+                                        name="form_text_66"
+                                        class="icon-66 form-control "
+                                        style="width:100%"
+                                        placeholder="E-mail: "
+                                                                                                                    >
+                                                                                    </div>
+                                                                    <div
+                            class="form-group text required">
+                            <label class="control-label" for="inputSuccess1"></label>
+                                                                                                <input
+                                        type="text"
+                                        name="form_text_67"
+                                        class="icon-67 form-control numbs"
+                                        style="width:100%"
+                                        placeholder="Телефон: *"
+                                                                                onkeydown="if ((event.keyCode>47 && event.keyCode<58) || (event.keyCode>95 && event.keyCode<106)) {} else {return false;}"                                    >
+                                                                                    </div>
+                                                                    <div
+                            class="form-group textarea ">
+                            <label class="control-label" for="inputSuccess1"></label>
+                                                                                                <textarea class="icon-83 form-control" rows="5"
+                                              name="form_textarea_83"
+                                              placeholder="Сообщение: "></textarea>
+                                                                                    </div>
+                                                                                        <div class="form-agreement__row form-group checkbox required">
+                        <input id="agreement-check-11"
+                               type="checkbox"
+                               class="form-agreement__checkbox"
+                               name="agreement-check"
+                               checked>
+                        <label for="agreement-check-11" class="form-agreement__label">
+                            <span class="form-agreement__txt"> Я соглашаюсь на</span>
+                            <a href="/about/policies_privacy/" target="_blank" class="form-agreement__link">обработку персональных данных</a>
+                        </label>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <!--                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>-->
+                <div class="form_answer">
+                    <span>Благодарим Вас за интерес к Компании “Двери Белоруссии”. Мы проанализируем Ваш запрос и незамедлительно свяжемся с Вами.</span>
+                    <a class="see-more ok_button" data-dismiss="modal" aria-label="Close"
+                       href="javascript:void(0)">Ок</a>
+                </div>
+                <div class="col-md-12">
+                    <div class="row">
+                        <div class="modal-see-more__wrap">
+<!--                            <pre>--><!--</pre>-->
+                            <a class="see-more send_form" href="javascript:void(0)"
+                               onclick=""
+                                 >Отправить</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-12 form-descr hidden-sm hidden-xs">
+                    <div class="row">
+                                            </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    </div><!--'end_frame_cache_LRbDtM'--><!--'start_frame_cache_Yzb9kn'-->    <!-- Modal -->
+<div class="modal fade modal_feedback" id="myFeedback1" tabindex="-1" role="dialog"
+     aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="gb-close" data-dismiss="modal" aria-label="Close"><i class="icon-cancel"></i></div>
+                <span class="h4 modal_h4 modal-title" id="myModalLabel">Обратный звонок</span>
+            </div>
+            <div class="modal-body">
+                <form action="" class="modal_form">
+                                                                    <div
+                            class="form-group text ">
+                            <label class="control-label" for="inputSuccess1"></label>
+                                                                                                <input
+                                        type="text"
+                                        name="form_text_1"
+                                        class="icon-1 form-control "
+                                        style="width:100%"
+                                        placeholder="ФИО: "
+                                                                                                                    >
+                                                                                    </div>
+                                                                    <div
+                            class="form-group text required">
+                            <label class="control-label" for="inputSuccess1"></label>
+                                                                                                <input
+                                        type="tel"
+                                        name="form_text_2"
+                                        class="icon-2 form-control phone"
+                                        style="width:100%"
+                                        placeholder="Телефон: *"
+                                                                                                                    >
+                                                                                    </div>
+                                                                    <div
+                            class="form-group text required">
+                            <label class="control-label" for="inputSuccess1"></label>
+                                                                                                <input
+                                        type="text"
+                                        name="form_text_3"
+                                        class="icon-3 form-control "
+                                        style="width:100%"
+                                        placeholder="Ваш город: *"
+                                                                                                                    >
+                                                                                    </div>
+                                                                    <div
+                            class="form-group textarea ">
+                            <label class="control-label" for="inputSuccess1"></label>
+                                                                                                <textarea class="icon-4 form-control" rows="5"
+                                              name="form_textarea_4"
+                                              placeholder="Комментарий: "></textarea>
+                                                                                    </div>
+                                                                                        <div class="form-agreement__row form-group checkbox required">
+                        <input id="agreement-check-1"
+                               type="checkbox"
+                               class="form-agreement__checkbox"
+                               name="agreement-check"
+                               checked>
+                        <label for="agreement-check-1" class="form-agreement__label">
+                            <span class="form-agreement__txt"> Я соглашаюсь на</span>
+                            <a href="/about/policies_privacy/" target="_blank" class="form-agreement__link">обработку персональных данных</a>
+                        </label>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <!--                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>-->
+                <div class="form_answer">
+                    <span>Мы Вас поняли, скоро мы Вам перезвоним! (работаем с 09:00 до 20:00)</span>
+                    <a class="see-more ok_button" data-dismiss="modal" aria-label="Close"
+                       href="javascript:void(0)">Ок</a>
+                </div>
+                <div class="col-md-12">
+                    <div class="row">
+                        <div class="modal-see-more__wrap">
+<!--                            <pre>--><!--</pre>-->
+                            <a class="see-more send_form" href="javascript:void(0)"
+                               onclick=""
+                                 id="vuzov_send">Перезвоните мне</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-12 form-descr hidden-sm hidden-xs">
+                    <div class="row">
+                                            </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    </div><!--'end_frame_cache_Yzb9kn'--><!--'start_frame_cache_nAlWVK'-->    <!-- Modal -->
+<div class="modal fade modal_feedback" id="myFeedback9" tabindex="-1" role="dialog"
+     aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="gb-close" data-dismiss="modal" aria-label="Close"><i class="icon-cancel"></i></div>
+                <span class="h4 modal_h4 modal-title" id="myModalLabel">Написать нам</span>
+            </div>
+            <div class="modal-body">
+                <form action="" class="modal_form">
+                                                                    <div
+                            class="form-group text ">
+                            <label class="control-label" for="inputSuccess1"></label>
+                                                                                                <input
+                                        type="text"
+                                        name="form_text_61"
+                                        class="icon-61 form-control "
+                                        style="width:100%"
+                                        placeholder="ФИО: "
+                                                                                                                    >
+                                                                                    </div>
+                                                                    <div
+                            class="form-group text ">
+                            <label class="control-label" for="inputSuccess1"></label>
+                                                                                                <input
+                                        type="tel"
+                                        name="form_text_62"
+                                        class="icon-62 form-control phone"
+                                        style="width:100%"
+                                        placeholder="Телефон: "
+                                                                                                                    >
+                                                                                    </div>
+                                                                    <div
+                            class="form-group text ">
+                            <label class="control-label" for="inputSuccess1"></label>
+                                                                                                <input
+                                        type="text"
+                                        name="form_text_63"
+                                        class="icon-63 form-control email"
+                                        style="width:100%"
+                                        placeholder="E-mail: "
+                                                                                                                    >
+                                                                                    </div>
+                                                                    <div
+                            class="form-group textarea required">
+                            <label class="control-label" for="inputSuccess1"></label>
+                                                                                                <textarea class="icon-64 form-control" rows="5"
+                                              name="form_textarea_64"
+                                              placeholder="Сообщение: *"></textarea>
+                                                                                    </div>
+                                                                                        <div class="form-agreement__row form-group checkbox required">
+                        <input id="agreement-check-9"
+                               type="checkbox"
+                               class="form-agreement__checkbox"
+                               name="agreement-check"
+                               checked>
+                        <label for="agreement-check-9" class="form-agreement__label">
+                            <span class="form-agreement__txt"> Я соглашаюсь на</span>
+                            <a href="/about/policies_privacy/" target="_blank" class="form-agreement__link">обработку персональных данных</a>
+                        </label>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <!--                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>-->
+                <div class="form_answer">
+                    <span>Благодарим Вас за обратную связь.</span>
+                    <a class="see-more ok_button" data-dismiss="modal" aria-label="Close"
+                       href="javascript:void(0)">Ок</a>
+                </div>
+                <div class="col-md-12">
+                    <div class="row">
+                        <div class="modal-see-more__wrap">
+<!--                            <pre>--><!--</pre>-->
+                            <a class="see-more send_form" href="javascript:void(0)"
+                               onclick=""
+                                 >Отправить сообщение</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-12 form-descr hidden-sm hidden-xs">
+                    <div class="row">
+                                            </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    </div><!--'end_frame_cache_nAlWVK'--><div class="modal" id="log_pup" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+
+    <div class="fade-reg-block"></div>
+    <div class="modal-dialog">
+        <div class="modal-content popup_reg">
+
+        </div>
+    </div>
+</div>
+
+
+
+<div class="up-top">
+    <i class="icon-up-open"></i>
+    <span>Наверх</span>
+</div>
+
+<!--<div class="mango-callback" data-settings='{"type":"", "id": "MTAwMDQ0MzU=","autoDial" : "0", "lang" : "ru-ru", "host":"widgets.mango-office.ru/", "errorMessage": "В данный момент наблюдаются технические проблемы и совершение звонка невозможно"}'></div>-->
+
+<!-- Google Tag Manager -->
+<noscript>
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K742HK"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager -->
+<!-- Yandex.Metrika counter -->
+<noscript>
+    <div>
+        <img src="//mc.yandex.ru/watch/25392278" style="position:absolute; left:-9999px;" alt=""/>
+    </div>
+</noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- Yandex.Metrika counter -->
+<noscript>
+    <div><img src="https://mc.yandex.ru/watch/25392278" style="position:absolute; left:-9999px;" alt=""/></div>
+</noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- BEGIN JIVOSITE CODE {literal} -->
+<!-- {/literal} END JIVOSITE CODE -->
+<div class="shadow-bg-mobile"></div>
+<script type="text/javascript">if(!window.BX)window.BX={message:function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;}};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1500879055','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'ca5c206a0f0ef412413d92e0850e72db'});</script><script type="text/javascript" src="/bitrix/cache/js/s1/standart/kernel_main/kernel_main.js?1499760524281411"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_db.min.js?14776679295048"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_frame_cache.min.js?147766792911191"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core.js?147766792973480','/bitrix/js/main/core/core_ajax.js?147766792921031','/bitrix/js/main/json/json2.min.js?14776679293467','/bitrix/js/main/core/core_ls.js?14776679297365','/bitrix/js/main/core/core_fx.js?14776679299592','/bitrix/js/main/core/core_popup.js?147766792929812','/bitrix/js/main/session.js?14776679292511','/bitrix/js/main/core/core_window.js?147766792974754','/bitrix/js/main/core/core_date.js?147766792934241','/bitrix/js/main/utils.js?147766792919858','/bitrix/js/main/core/core_dd.js?14776679292188','/local/components/bitrix/search.title/script.js?14776679908754','/local/templates/standart/js/jquery-1.11.1.min.js?147766798495786','/local/templates/standart/js/bootstrap.min.js?147766798431819','/local/templates/standart/js/detail_calculator.js?149856058621806','/local/templates/standart/js/handlers.js?149877695314573','/local/templates/standart/js/jquery.inputmask.js?1477667984145875','/local/templates/standart/js/lib.js?14776679843007','/local/templates/standart/js/zoom.js?147766798442968','/local/templates/standart/js/script_rl.js?14944310287481','/local/templates/standart/js/prefixfree.min.js?14776679846202','/local/templates/standart/js/owl.carousel.min.js?149097457123890','/local/templates/standart/js/jquery.mCustomScrollbar.concat.min.js?146779116245479','/local/templates/standart/external/lightgallery/js/lightgallery.min.js?148187842217821','/local/templates/standart/external/simpleImageZoom/js/ap-image-zoom.min.js?144955892221301','/local/templates/standart/js/script.js?149855291513813','/local/templates/standart/script.js?147766798413008','/local/templates/standart/components/bitrix/sale.basket.basket.line/lenal_basket_line/script.js?14776679894656']); </script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/js/main/core/css/core.css?14776679292854','/bitrix/js/main/core/css/core_popup.css?147766792929699','/bitrix/js/main/core/css/core_date.css?14776679299657','/local/templates/standart/components/lenal/eshopapp.top/lenal_top/style.css?14776679892353','/local/templates/standart/css/fontopensans.css?14931873697461','/local/templates/standart/css/fontello.css?14776679842510','/local/templates/standart/css/bootstrap.min.css?1477667984109518','/local/templates/standart/css/animate.css?147766798472922','/local/templates/standart/css/common.css?150062028432977','/local/templates/standart/css/jquery.mCustomScrollbar.min.css?147920496742839','/local/templates/standart/css/main.css?1499345810157545','/local/templates/standart/css/keep_away_from_my_file.css?149967704613467','/local/templates/standart/css/mq.css?149450644717807','/local/templates/standart/css/main_rl.css?149751103066820','/local/templates/standart/css/mq_rl.css?14776679842685','/local/templates/standart/css/one_click.css?14776679843319','/local/templates/standart/css/owlwiththeme.css?14909755953517','/local/templates/standart/external/lightgallery/css/fixedgallery.css?148553361417145','/local/templates/standart/external/simpleImageZoom/css/ap-image-zoom.min.css?14495589224408','/local/templates/standart/components/bitrix/catalog.section.list/choose_city_modal/style.css?14877519617305','/local/templates/standart/components/bitrix/search.title/search_lenal/style.css?14776679892266','/local/templates/standart/components/bitrix/menu/main_menu/style.css?1477667986626','/local/templates/standart/components/bitrix/breadcrumb/dv_cramps/style.css?1477667989947','/local/templates/standart/components/bitrix/menu/footer_catalog_menu/style.css?1477667986626','/local/templates/standart/components/bitrix/menu/footer_menu/style.css?1477667986626','/local/templates/standart/components/bitrix/form.result.new/modal_metering/style.css?1477667989666','/local/templates/standart/components/bitrix/sale.basket.basket.line/lenal_basket_line/style.css?14776679898385']); </script>
+
+
+<script type="text/javascript" src="/bitrix/cache/js/s1/standart/template_a5e62fefa3495444c8c958a5e9ee76d5/template_a5e62fefa3495444c8c958a5e9ee76d5.js?1499723380518262"></script>
+<script type="text/javascript" src="/bitrix/cache/js/s1/standart/default_a429aa317fc08fa66b75d92f53d8667b/default_a429aa317fc08fa66b75d92f53d8667b.js?14997233725089"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "018c23e08ca8d541104cdf4e0478378a"]); _ba.push(["host", "dveribelorussii.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+<script>
+        var global = {
+            ip: '109.68.43.38'
+        }
+    </script>
+<script>
+                        if (getCookie("section") == undefined) {
+                            $("body").find(".header__top-city-location").removeClass("hidden");
+                        }
+                    </script>
+<script>
+	BX.ready(function(){
+		new JCTitleSearch({
+			'AJAX_PAGE' : '/404.php',
+			'CONTAINER_ID': 'header-middle-search-box',
+			'INPUT_ID': 'header-middle-search',
+			'MIN_QUERY_LEN': 2
+		});
+	});
+</script>
+<script>
+                            if (getCookie("section") == undefined) {
+                                $("body").find(".header__top-city-location").removeClass("hidden");
+                            }
+                        </script>
+<script>
+   // window.onload = resizeMenu();
+</script><script>
+    window.onload = resizeMenu();
+</script><script id="gal_slider">
+        $(document).ready(function() {
+            resizeSlider();
+        });
+    </script>
+<script src="//images.dmca.com/Badges/DMCABadgeHelper.min.js"></script>
+<script>
+    $(document).ready(function(){
+        $("body").find("#myFeedback4 .see-more.send_form").on("click", function(e){
+            send_form('#myFeedback4', 4);
+            yaCounter25392278.reachGoal('form_4');
+        })
+    })
+</script>
+<script>
+    $(document).ready(function(){
+        $("body").find("#myFeedback11 .see-more.send_form").on("click", function(e){
+            send_form('#myFeedback11', 11);
+            yaCounter25392278.reachGoal('form_11');
+        })
+    })
+</script>
+<script>
+    $(document).ready(function(){
+        $("body").find("#myFeedback1 .see-more.send_form").on("click", function(e){
+            send_form('#myFeedback1', 1);
+            yaCounter25392278.reachGoal('form_1');
+        })
+    })
+</script>
+<script>
+    $(document).ready(function(){
+        $("body").find("#myFeedback9 .see-more.send_form").on("click", function(e){
+            send_form('#myFeedback9', 9);
+            yaCounter25392278.reachGoal('form_9');
+        })
+    })
+</script>
+<script>(function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(), event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-K742HK');</script>
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function () {
+            try {
+                w.yaCounter25392278 = new Ya.Metrika({
+                    id: 25392278,
+                    webvisor: true,
+                    clickmap: true,
+                    accurateTrackBounce: true
+                });
+            } catch (e) {
+            }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () {
+                n.parentNode.insertBefore(s, n);
+            };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else {
+            f();
+        }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function () {
+            try {
+                w.yaCounter25392278 = new Ya.Metrika({
+                    id: 25392278,
+                    clickmap: true,
+                    trackLinks: true,
+                    accurateTrackBounce: true,
+                    webvisor: true,
+                    ecommerce: "dataLayer"
+                });
+            } catch (e) {
+            }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () {
+                n.parentNode.insertBefore(s, n);
+            };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else {
+            f();
+        }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<script type='text/javascript'>
+    //    if ($(window).width() > 991) {
+    (function () {
+        var widget_id = 'rxHlvm4kjr';
+        var d = document;
+        var w = window;
+
+        function l() {
+            var s = document.createElement('script');
+            s.type = 'text/javascript';
+            s.async = true;
+            s.src = '//code.jivosite.com/script/geo-widget/' + widget_id;
+            var ss = document.getElementsByTagName('script')[0];
+            ss.parentNode.insertBefore(s, ss);
+        }
+
+        if (d.readyState == 'complete') {
+            l();
+        } else {
+            if (w.attachEvent) {
+                w.attachEvent('onload', l);
+            } else {
+                w.addEventListener('load', l, false);
+            }
+        }
+    })();
+    //    }
+</script>
+<script>
+    //    if ($(window).width() > 991) {
+    function jivo_onLoadCallback() {
+
+        var contact = jivo_api.getContactInfo();
+        var user = false;
+        var date = new Date();
+        var time = date.getHours();
+        var wellcome_message;
+
+        var user_name;
+
+        if (contact.name) {
+            user_name = contact.name;
+        } else {
+            user_name = user.NAME;
+        }
+
+        wellcome_message = "Здравствуйте";
+
+        if (user_name) {
+            wellcome_message += ", " + user_name;
+        }
+
+        wellcome_message += "! ";
+
+        if ((time > 8) && (time < 20)) {
+            if (typeof(product) == "object") {
+                wellcome_message += "Вас заинтересовала ";
+
+                if (product.IBLOCK_CODE != "arch") {
+                    wellcome_message += "модель ";
+                }
+
+                wellcome_message += product.NAME + "? ";
+                wellcome_message += "Я могу предоставить Вам более полную информацию по ней.";
+
+            } else if (typeof(basket) == "object") {
+                if (basket.FULL === true) {
+                    wellcome_message += "Вы на предпоследнем шаге от оформления заказа. Возможно у вас появились вопросы?";
+                }
+            } else if (typeof(category) == "object") {
+                if ((category.IBLOCK_CODE == "dveri")) {
+                    if (category.SORT == "sale") {
+                        wellcome_message += "Я могу Вам помочь подобрать наиболее выгодный вариант из распродажи";
+                    } else {
+                        wellcome_message += "Я могу Вам помочь подобрать двери с учетом Ваших требований и вкуса. Задавайте вопросы";
+                    }
+                } else if (category.IBLOCK_CODE == "arch") {
+                    wellcome_message += "Я могу Вам помочь подобрать арки с учетом Ваших требований и вкуса. Задавайте вопросы";
+                } else if (category.IBLOCK_CODE == "furniture") {
+
+                    if (category.SECTION_CODE == "handles") {
+                        wellcome_message += "Я могу Вам помочь подобрать дверный ручки с учетом Ваших требований и вкуса. Задавайте вопросы";
+                    } else if (category.SECTION_CODE == "ogranichiteli") {
+                        wellcome_message += "Я могу Вам помочь подобрать ограничители с учетом Ваших требований и вкуса. Задавайте вопросы";
+                    } else if (category.SECTION_CODE == "petli") {
+                        wellcome_message += "Я могу Вам помочь подобрать петли с учетом Ваших требований и вкуса. Задавайте вопросы";
+                    } else if (category.SECTION_CODE == "razdvizhnaya-sistema") {
+                        wellcome_message += "Я могу Вам помочь подобрать раздвижную систему с учетом Ваших требований и вкуса. Задавайте вопросы";
+                    } else if (category.SECTION_CODE == "shpingalety") {
+                        wellcome_message += "Я могу Вам помочь подобрать шпингалеты с учетом Ваших требований и вкуса. Задавайте вопросы";
+                    } else {
+                        wellcome_message += "Я могу Вам помочь подобрать фурнитуру с учетом Ваших требований и вкуса. Задавайте вопросы";
+                    }
+
+                }
+
+            } else if (typeof(buyers) == "object") {
+                switch (buyers.page) {
+                    case 'aktsii' :
+                        wellcome_message += "Я могу Вам помочь в подборе акционных товаров, с учетом Ваших пожеланий";
+                        break;
+                    case 'kak-kupit' :
+                        wellcome_message += "Я могу проконсультировать Вас, как пошагово купить у нас двери";
+                        break;
+                    case 'uslugi' :
+                        wellcome_message += "Я могу предоставить детальную информацию по нашим услугам";
+                        break;
+                    case 'dostavka' :
+                        wellcome_message += "Я могу предоставить детальную информацию по доставке и оплате";
+                        break;
+                    case 'garantii' :
+                        wellcome_message += "Я могу предоставить детальную информацию по гарантии товара и установки";
+                        break;
+                }
+            } else if (typeof(partners) == "object") {
+                if (partners.page === true) {
+                    wellcome_message += "Хотите стать нашим партнером? Наверняка у Вас есть вопросы, я могу Вас проконсультировать";
+                }
+            } else if (typeof(saloni) == "object") {
+                if (saloni.page === true) {
+                    wellcome_message += "Вы находитесь на карте со всеми нашими магазинами. Я могу Вам помочь, найти подходящий для Вас магазин";
+                }
+            } else {
+                wellcome_message += "Рады видеть Вас на нашем сайте и предоставить полную консультацию";
+            }
+        } else {
+            wellcome_message += "Мы сможем Вам помочь подобрать двери с учетом Ваших требований и вкуса. Ваша заявка будет обработана в период с 09.00 по 20.00 по Мск";
+        }
+
+        jivo_config.rules = [
+            {
+                "name": "Активное приглашение в диалог",
+                "enabled": true,
+                "type": "all",
+                "conditions": [
+                    {
+                        "condition": "online",
+                        "value": true
+                    },
+                    {
+                        "condition": "time_on_page",
+                        "comparator": "greater",
+                        "value": 20
+                    },
+                    {
+                        "condition": "time_on_site",
+                        "comparator": "greater",
+                        "value": 60
+                    }
+                ],
+                "commands": [
+                    {
+                        "command": "proactive",
+                        "params": {
+                            "message": wellcome_message
+                        }
+                    }
+                ]
+            }
+        ];
+    }
+    //    }
+</script>
+</body>
+</html>

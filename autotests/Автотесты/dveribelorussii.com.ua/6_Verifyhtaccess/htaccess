@@ -1,0 +1,71 @@
+Options -Indexes 
+ErrorDocument 404 /404.php
+
+Redirect 301 /catalog/timber/m-tats-ya-brusu/imitatsiya-brusa-sosna-av-20-135-4000-5-sht-v-up-2-5-m-kv-/ /catalog/timber/imitatsiya-brusa-/imitatsiya-brusa-sosna-av-20-135-4000-5-sht-v-up-2-5-m-kv-/
+Redirect 301 /catalog/timber/m-tats-ya-brusu/imitatsiya-brusa-sosna-av-20-125-3000-5-sht-v-up-1-875-m-kv/ /catalog/timber/imitatsiya-brusa-/imitatsiya-brusa-sosna-av-20-125-3000-5-sht-v-up-1-875-m-kv/
+Redirect 301 /ua/catalog/timber/m-tats-ya-brusu/imitatsiya-brusa-sosna-av-20-135-4000-5-sht-v-up-2-5-m-kv-/ /catalog/timber/imitatsiya-brusa-/imitatsiya-brusa-sosna-av-20-135-4000-5-sht-v-up-2-5-m-kv-/
+Redirect 301 /ua/catalog/timber/m-tats-ya-brusu/imitatsiya-brusa-sosna-av-20-125-3000-5-sht-v-up-1-875-m-kv/ /catalog/timber/imitatsiya-brusa-/imitatsiya-brusa-sosna-av-20-125-3000-5-sht-v-up-1-875-m-kv/
+Redirect 301 /catalog/timber/evrovagonka-/evrovagonka-sosna-av-14-80-3000-20-sht-up-4-8-m-kv-/ /catalog/timber/evrovagonka/evrovagonka-sosna-av-14-80-3000-20-sht-up-4-8-m-kv-/
+Redirect 301 /catalog/timber/evrovagonka-/evrovagonka-sosna-av-14-85-3000-20-sht-up-5-1-m-kv-/ /catalog/timber/evrovagonka/evrovagonka-sosna-av-14-85-3000-20-sht-up-5-1-m-kv-/
+Redirect 301 /ua/catalog/timber/evrovagonka-/evrovagonka-sosna-av-14-80-3000-20-sht-up-4-8-m-kv-/ /ua/catalog/timber/evrovagonka/evrovagonka-sosna-av-14-80-3000-20-sht-up-4-8-m-kv-/
+Redirect 301 /ua/catalog/timber/evrovagonka-/evrovagonka-sosna-av-14-85-3000-20-sht-up-5-1-m-kv-/ /ua/catalog/timber/evrovagonka/evrovagonka-sosna-av-14-85-3000-20-sht-up-5-1-m-kv-/
+
+
+<IfModule mod_php5.c>
+    php_flag allow_call_time_pass_reference 1
+    php_flag session.use_trans_sid off
+    php_value max_input_vars  10000
+
+    php_value display_errors 1
+
+    php_value mbstring.internal_encoding UTF-8
+</IfModule>
+
+<IfModule mod_rewrite.c>
+    Options +SymLinksIfOwnerMatch
+    RewriteEngine On
+
+#    RewriteCond %{HTTPS} !=on
+#    RewriteCond %{HTTP_HOST} ^(.*)$ [NC]
+#    RewriteCond %{REQUEST_URI} robots.txt
+#    RewriteRule ^(.*)$ /robots_http.txt [L]
+
+    RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+    RewriteRule ^(.*)$ https://%1%{REQUEST_URI} [R=301,L]
+
+    RewriteCond %{HTTPS} !=on
+    RewriteCond %{HTTP_HOST} ^(.*)$ [NC]
+#    RewriteCond %{REQUEST_URI} !robots.txt
+#    RewriteCond %{REQUEST_URI} !robots_http.txt
+    RewriteRule ^(.*)$ https://%1%{REQUEST_URI} [R=301,L]
+
+    RewriteEngine On
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-l
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !/bitrix/urlrewrite.php$
+    RewriteRule ^(.*)$ /bitrix/urlrewrite.php [L]
+    RewriteRule .* - [E=REMOTE_USER:%{HTTP:Authorization}]
+</IfModule>
+
+<IfModule mod_dir.c>
+    DirectoryIndex index.php index.html
+</IfModule>
+
+<IfModule mod_expires.c>
+    AddType application/vnd.ms-fontobject .eot
+    AddType application/x-font-ttf .ttf
+    AddType application/x-font-opentype .otf
+    AddType application/x-font-woff .woff
+    AddType image/svg+xml .svg
+    AddOutputFilterByType DEFLATE application/x-font-ttf application/x-font-opentype image/svg+xml
+    ExpiresActive on
+    ExpiresByType image/jpeg "access plus 30 day"
+    ExpiresByType image/gif "access plus 30 day"
+    ExpiresByType image/png "access plus 30 day"
+    ExpiresByType application/vnd.ms-fontobject "access plus 1 year"
+    ExpiresByType application/x-font-ttf "access plus 1 year"
+    ExpiresByType application/x-font-opentype "access plus 1 year"
+    ExpiresByType application/x-font-woff "access plus 1 year"
+    ExpiresByType image/svg+xml "access plus 1 year"
+</IfModule>
