@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: /auth/
+Disallow: /personal/
+Disallow: /search/
+Disallow: *sort=
+Disallow: *rk.php
+Sitemap: https://dveribelorussii.ru/sitemap.xml
+Sitemap: https://dveribelorussii.ru/sitemap_new.xml
+Sitemap: https://dveribelorussii.ru/sitemap_images.xml
+Host: https://dveribelorussii.ru/
+Sitemap: http://dveribelorussii.ru/sitemap.xml
