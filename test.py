@@ -1,8 +1,9 @@
+# -*- coding: utf-8 -*-
 import random
 
 arr = [random.randint(0,5) for x in range(50)]
 
-print(arr)
+print (arr)
 
 start = 0
 end = 0
@@ -12,7 +13,7 @@ for i in range(1, len(arr)):
         if end-start>=1:
             number = arr[start]
             size = end-start+1
-            print('{} повторяется {} раза'.format(number, size))
+            print('{} РїРѕРІС‚РѕСЂСЏРµС‚СЃСЏ {} СЂР°Р·Р°'.format(number, size))
         start = i
         end = i
     else:
@@ -21,6 +22,4 @@ for i in range(1, len(arr)):
             if end-start>=1:
                 number = arr[start]
                 size = end-start+1
-                print('{} повторяется {} раза'.format(number, size))
-
-
+                print('{} РїРѕРІС‚РѕСЂСЏРµС‚СЃСЏ {} СЂР°Р·Р°'.format(number, size))
