@@ -1,4 +1,4 @@
-a= int 9input()
+
 i = 0
 while i <= 10:
     a, b = input().split()
