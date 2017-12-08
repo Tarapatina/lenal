@@ -4,3 +4,4 @@ for x in a:
     if m > x:
          m = x
 print(m)
+
